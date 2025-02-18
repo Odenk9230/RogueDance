@@ -1,4 +1,3 @@
-﻿Log file open, 02/17/25 15:55:11
 ﻿Log file open, 02/18/25 15:50:32
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -7,7 +6,6 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
-LogWindows: Started CrashReportClient (pid=5008)
 LogWindows: Started CrashReportClient (pid=8616)
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: RogueDance
@@ -29,7 +27,6 @@ LogCsvProfiler: Display: Metadata set : asan="0"
 LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\LPMJV\Documents\Courgits\RogueDance\RogueDance\RogueDance.uproject""
 LogCsvProfiler: Display: Metadata set : loginid="18f9a76e41d88df9c318bf8afb4ffa1c"
 LogCsvProfiler: Display: Metadata set : llm="0"
-LogStats: Stats thread started at 0.309331
 LogStats: Stats thread started at 1.570719
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
@@ -50,12 +47,6 @@ LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
 LogAudio: Display: Audio Device Manager Pre-Initialized
 LogPluginManager: Looking for build plugins target receipt
 LogPluginManager: Unable to find target receipt in path: ../../../../../../Users/LPMJV/Documents/Courgits/RogueDance/RogueDance/Binaries/Win64/*.target
-LogConfig: Display: Loading Mac ini files took 0.06 seconds
-LogConfig: Display: Loading Android ini files took 0.06 seconds
-LogConfig: Display: Loading VulkanPC ini files took 0.06 seconds
-LogConfig: Display: Loading IOS ini files took 0.06 seconds
-LogConfig: Display: Loading TVOS ini files took 0.07 seconds
-LogConfig: Display: Loading Unix ini files took 0.07 seconds
 LogConfig: Display: Loading Mac ini files took 0.07 seconds
 LogConfig: Display: Loading Android ini files took 0.07 seconds
 LogConfig: Display: Loading Unix ini files took 0.08 seconds
@@ -63,11 +54,8 @@ LogConfig: Display: Loading IOS ini files took 0.08 seconds
 LogConfig: Display: Loading TVOS ini files took 0.09 seconds
 LogConfig: Display: Loading LinuxArm64 ini files took 0.10 seconds
 LogAssetRegistry: Display: Asset registry cache read as 34.9 MiB from ../../../../../../Users/LPMJV/Documents/Courgits/RogueDance/RogueDance/Intermediate/CachedAssetRegistry_0.bin
-LogConfig: Display: Loading LinuxArm64 ini files took 0.08 seconds
-LogConfig: Display: Loading Linux ini files took 0.08 seconds
 LogConfig: Display: Loading Linux ini files took 0.10 seconds
 LogConfig: Display: Loading Windows ini files took 0.05 seconds
-LogConfig: Display: Loading VisionOS ini files took 0.05 seconds
 LogConfig: Display: Loading VisionOS ini files took 0.06 seconds
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Looking for enabled plugins target receipt
@@ -87,33 +75,6 @@ LogPluginManager: Mounting Engine plugin UbaController
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin OodleNetwork
-LogPluginManager: Mounting Engine plugin AdvancedRenamer
-LogPluginManager: Mounting Engine plugin AutomationUtils
-LogPluginManager: Mounting Engine plugin BackChannel
-LogPluginManager: Mounting Engine plugin ChaosCaching
-LogPluginManager: Mounting Engine plugin ChaosEditor
-LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
-LogPluginManager: Mounting Engine plugin ChaosNiagara
-LogPluginManager: Mounting Engine plugin CharacterAI
-LogPluginManager: Mounting Engine plugin ChaosUserDataPT
-LogPluginManager: Mounting Engine plugin Dataflow
-LogPluginManager: Mounting Engine plugin EditorDataStorage
-LogPluginManager: Mounting Engine plugin EditorPerformance
-LogPluginManager: Mounting Engine plugin EditorTelemetry
-LogPluginManager: Mounting Engine plugin Fracture
-LogPluginManager: Mounting Engine plugin FullBodyIK
-LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
-LogPluginManager: Mounting Engine plugin GeometryFlow
-LogPluginManager: Mounting Engine plugin LowLevelNetTrace
-LogPluginManager: Mounting Engine plugin LocalizableMessage
-LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
-LogPluginManager: Mounting Engine plugin NFORDenoise
-LogPluginManager: Mounting Engine plugin PlanarCut
-LogPluginManager: Mounting Engine plugin PlatformCrypto
-LogPluginManager: Mounting Engine plugin PythonScriptPlugin
-LogPluginManager: Mounting Engine plugin SkeletalReduction
-LogPluginManager: Mounting Engine plugin StudioTelemetry
-LogPluginManager: Mounting Engine plugin ToolPresets
 LogPluginManager: Mounting Engine plugin DatasmithContent
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
@@ -124,14 +85,6 @@ LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin TcpMessaging
 LogPluginManager: Mounting Engine plugin NNEDenoiser
 LogPluginManager: Mounting Engine plugin UdpMessaging
-LogPluginManager: Mounting Engine plugin InterchangeTests
-LogPluginManager: Mounting Engine plugin AlembicImporter
-LogPluginManager: Mounting Engine plugin EOSShared
-LogPluginManager: Mounting Engine plugin OnlineBase
-LogPluginManager: Mounting Engine plugin OnlineServices
-LogPluginManager: Mounting Engine plugin OnlineSubsystem
-LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
-LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
 LogPluginManager: Mounting Engine plugin NNERuntimeORT
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
