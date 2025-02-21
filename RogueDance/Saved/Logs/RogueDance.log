@@ -3905,3 +3905,76 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.21-14.00.22:534][ 11]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3155.308105
 [2025.02.21-14.00.22:747][ 24]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.21-14.00.22:747][ 24]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3155.505859, Update Interval: 324.463623
+[2025.02.21-14.06.25:130][258]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3517.907715
+[2025.02.21-14.06.25:330][270]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.06.25:330][271]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3518.091797, Update Interval: 342.240051
+[2025.02.21-14.09.30:331][909]LogDerivedDataCache: C:/Users/mitch/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.02.21-14.12.44:870][492]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3897.646484
+[2025.02.21-14.12.45:874][495]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.12.45:874][495]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3898.316406, Update Interval: 326.521790
+[2025.02.21-14.19.10:272][648]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4283.049805
+[2025.02.21-14.19.11:273][651]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.19.11:273][651]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4283.717773, Update Interval: 342.221741
+[2025.02.21-14.25.34:339][800]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4667.115234
+[2025.02.21-14.25.35:341][803]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.25.35:341][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4667.782227, Update Interval: 323.086639
+[2025.02.21-14.31.41:411][901]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5034.199219
+[2025.02.21-14.31.42:412][904]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.31.42:412][904]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5034.866211, Update Interval: 314.163635
+[2025.02.21-14.37.39:150][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5391.937988
+[2025.02.21-14.37.40:151][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.37.40:151][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5392.604492, Update Interval: 327.435516
+[2025.02.21-14.38.19:205][164]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.02.21-14.38.19:262][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.21-14.38.19:279][164]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_ProtoAlex_Combat
+[2025.02.21-14.38.19:357][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075893s)
+[2025.02.21-14.38.19:357][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/ProtoAlex_Combat.ProtoAlex_Combat to /Game/LEVEL/UEDPIE_0_ProtoAlex_Combat.ProtoAlex_Combat (0.078394s)
+[2025.02.21-14.38.19:488][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2025.02.21-14.38.19:510][164]LogChaosDD: Creating Chaos Debug Draw Scene for world ProtoAlex_Combat
+[2025.02.21-14.38.19:583][164]LogPlayLevel: PIE: World Init took: (0.073216s)
+[2025.02.21-14.38.19:587][164]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.02.21-14.38.19:589][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.21-14.38.19:589][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.21-14.38.19:590][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.21-14.38.19:590][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.21-14.38.19:590][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.21-14.38.19:596][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.21-14.38.19:655][164]LogAudioMixer: Display: Using Audio Hardware Device Headphone (Realtek(R) Audio)
+[2025.02.21-14.38.19:659][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.21-14.38.19:659][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.21-14.38.19:661][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.21-14.38.19:666][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.02.21-14.38.19:667][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.02.21-14.38.19:670][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.02.21-14.38.19:670][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.02.21-14.38.19:670][164]LogInit: FAudioDevice initialized with ID 13.
+[2025.02.21-14.38.19:670][164]LogAudio: Display: Audio Device (ID: 13) registered with world 'ProtoAlex_Combat'.
+[2025.02.21-14.38.19:671][164]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.21-14.38.19:807][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.21-14.38.19:813][164]LogLoad: Game class is 'GameModeBase'
+[2025.02.21-14.38.19:856][164]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_ProtoAlex_Combat.ProtoAlex_Combat up for play (max tick rate 60) at 2025.02.21-15.38.19
+[2025.02.21-14.38.19:880][164]LogWorld: Bringing up level for play took: 0.063502
+[2025.02.21-14.38.19:894][164]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2025.02.21-14.38.19:983][164]PIE: Server logged in
+[2025.02.21-14.38.19:987][164]PIE: Play in editor total start time 0,739 seconds.
+[2025.02.21-14.42.06:213][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.21-14.42.06:213][522]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_ProtoAlex_Combat
+[2025.02.21-14.42.06:222][522]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.02.21-14.42.06:272][522]LogWorld: UWorld::CleanupWorld for ProtoAlex_Combat, bSessionEnded=true, bCleanupResources=true
+[2025.02.21-14.42.06:278][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.21-14.42.06:299][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.21-14.42.06:306][522]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.21-14.42.06:336][522]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2025.02.21-14.42.06:338][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.21-14.42.06:341][522]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2025.02.21-14.42.06:374][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.02.21-14.42.06:504][523]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2025.02.21-14.43.53:287][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5766.078125
+[2025.02.21-14.43.54:288][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.21-14.43.54:288][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5766.744629, Update Interval: 326.587738
