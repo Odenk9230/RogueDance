@@ -1355,3 +1355,41 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.03-08.58.26:258][  1]LogSourceControl: Uncontrolled asset enumeration started...
 [2025.03.03-08.58.26:258][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
 [2025.03.03-08.58.26:395][  1]LogStreaming: Display: FlushAsyncLoading(424): 64 QueuedPackages, 0 AsyncPackages
+[2025.03.03-08.58.26:622][  2]LogSourceControl: Uncontrolled asset enumeration finished in 0.364119 seconds (Found 0 uncontrolled assets)
+[2025.03.03-08.58.26:651][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 6.107589
+[2025.03.03-08.58.26:653][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.03.03-08.58.26:653][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6.161654
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.26:662][  3]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:328][  5]SourceControl: Error: fatal: Invalid path '/Temp': No such file or directory
+[2025.03.03-08.58.27:660][  6]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.03.03-08.58.28:327][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.504435
+[2025.03.03-08.58.28:329][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -36188152
+[2025.03.03-08.58.28:329][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.504435, Update Interval: 337.508484
+[2025.03.03-08.58.29:328][ 11]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 970...e6c Access[Expires: 2025.03.03-10.58.24 Remaining: 7200.24] Refresh[Expires: 2025-08-30T08:16:57.508Z Remaining: 15549513.51] State: Valid
+[2025.03.03-08.58.29:660][ 12]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2025.03.03-08.58.30:662][ 15]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2025.03.03-08.58.30:662][ 15]LogFab: Display: User logged in
+[2025.03.03-08.58.30:662][ 15]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2025.03.03-08.58.31:329][ 17]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-aAd5uTAK5U-t-nVaqyeZpQ-tUAWq1ZemUqLUqoO87TW9Q]
