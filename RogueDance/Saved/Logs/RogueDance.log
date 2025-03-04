@@ -6548,3 +6548,5 @@ HealthBar.Percent <- UMGMV_UI.Health_data
 [2025.03.04-16.08.35:067][ 84]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 23956.921875
 [2025.03.04-16.08.36:067][ 87]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.04-16.08.36:067][ 87]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23957.589844, Update Interval: 315.344696
+[2025.03.04-16.11.05:464][176]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.03.04-16.11.05:467][176]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/ProtoAlex_Combat' took 0.027
