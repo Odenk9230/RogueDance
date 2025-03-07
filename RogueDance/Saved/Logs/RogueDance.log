@@ -8628,3 +8628,37 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.07-13.56.48:414][868]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1322.874634
 [2025.03.07-13.56.48:581][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.07-13.56.48:581][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1323.024902, Update Interval: 321.017487
+[2025.03.07-14.02.40:920][873]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1675.381226
+[2025.03.07-14.02.41:922][876]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-14.02.41:922][876]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1676.047852, Update Interval: 310.032654
+[2025.03.07-14.08.38:403][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2032.862305
+[2025.03.07-14.08.39:403][945]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-14.08.39:403][945]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2033.529419, Update Interval: 309.787292
+[2025.03.07-14.14.33:466][  7]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2387.924072
+[2025.03.07-14.14.34:465][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-14.14.34:465][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2388.590576, Update Interval: 344.182861
+[2025.03.07-14.21.04:867][181]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2779.327393
+[2025.03.07-14.21.05:867][184]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.07-14.21.05:867][184]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2779.994385, Update Interval: 343.910034
+[2025.03.07-14.25.53:650][470]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/INPUT/MC_PlayerInput.MC_PlayerInput
+[2025.03.07-14.26.03:159][997]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2025.03.07-14.26.03:296][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2025.03.07-14.26.15:062][687]LogStreaming: Display: FlushAsyncLoading(686): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-14.26.18:098][866]LogStreaming: Display: FlushAsyncLoading(687): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.07-14.26.30:700][614]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2025.03.07-14.26.30:853][614]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.07-14.26.30:949][614]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/UI_Timer] ([2] browsable assets)...
+[2025.03.07-14.26.30:949][614]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/UI_Timer]
+[2025.03.07-14.26.30:965][614]LogSavePackage: Moving output files for package: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/UI_Timer
+[2025.03.07-14.26.30:965][614]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/UI_Timer2A94EE4B49593A81A50E3AAD76348186.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/Widgets_BP/UI_Timer.uasset'
+[2025.03.07-14.26.30:976][614]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.190 ms (total: 1.42 sec)
+[2025.03.07-14.26.31:072][614]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.07-14.26.31:072][614]LogContentValidation: Enabled validators:
+[2025.03.07-14.26.31:072][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.07-14.26.31:072][614]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.07-14.26.31:072][614]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.07-14.26.31:072][614]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.07-14.26.31:072][614]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.07-14.26.31:072][614]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.07-14.26.31:073][614]AssetCheck: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/UI_Timer Validating asset
+[2025.03.07-14.26.31:461][635]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
