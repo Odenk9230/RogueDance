@@ -1728,3 +1728,769 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.12-14.25.12:048][980]LogShaderCompilers: Display: Material Cache Hits: 29 (17%)
 [2025.03.12-14.25.12:048][980]LogShaderCompilers: Display: ================================================
 [2025.03.12-14.25.12:897][993]LogMaterial: Display: Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001.pot_001 needed to have new flag set bUsedWithNanite !
+[2025.03.12-14.25.41:019][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a
+[2025.03.12-14.25.41:019][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a
+[2025.03.12-14.25.41:021][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_19
+[2025.03.12-14.25.42:036][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.12-14.25.42:040][688]LogEditorActor: Deleted 0 Actors (0.019 secs)
+[2025.03.12-14.25.42:044][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a
+[2025.03.12-14.25.42:044][688]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a
+[2025.03.12-14.25.42:046][688]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_20
+[2025.03.12-14.25.51:897][239]Cmd: PIVOT HERE
+[2025.03.12-14.26.28:064][344]LogD3D12RHI: Creating RTPSO with 21 shaders (13 cached, 8 new) took 57.07 ms. Compile time 40.88 ms, link time 16.17 ms.
+[2025.03.12-14.26.28:441][347]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.03.12-14.26.28:601][350]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: ================================================
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Total job queries 492, among them cache hits 36 (7.32%), DDC hits 280 (56.91%), Duplicates 21 (4.27%)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Tracking 435 distinct input hashes that result in 348 distinct outputs (80.00%)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: RAM used: 203,67 KiB of 819,20 MiB budget. Usage: 0.02%
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Shaders Compiled: 155
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Jobs assigned 155, completed 155 (100%)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Average time worker was idle: 15.16 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Time job spent in pending queue: average 1.73 s, longest 11.58 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Job execution time: average 4.87 s, max 11.43 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Job life time (pending + execution): average 6.60 s, max 13.62
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Shader code size: average 11,17 KiB, min 4,172 KiB, max 20,191 KiB
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.25 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 2.46 jobs/batch
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Average processing rate: 4.53 jobs/sec
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Total thread time: 187,928 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Total thread preprocess time: 9,304 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Percentage time preprocessing: 4.95%
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Effective parallelization: 5.49 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   10 times, average 2.38 sec, max 2.72 sec, min 2.02 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   10 times, average 2.36 sec, max 2.80 sec, min 1.84 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   10 times, average 1.93 sec, max 2.37 sec, min 1.63 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 1.73 sec, max 2.41 sec, min 1.36 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   21 times, average 1.55 sec, max 2.23 sec, min 0.94 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.33% of total time (compiled   21 times, average 1.55 sec, max 2.23 sec, min 0.94 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 16.28% of total time (compiled   20 times, average 1.53 sec, max 2.00 sec, min 1.14 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.66% of total time (compiled   10 times, average 2.38 sec, max 2.72 sec, min 2.02 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 12.57% of total time (compiled   10 times, average 2.36 sec, max 2.80 sec, min 1.84 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display:                                                 FLumenCardCS - 10.29% of total time (compiled   10 times, average 1.93 sec, max 2.37 sec, min 1.63 sec)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: === Material stats ===
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Materials Translated:    175
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Material Translation Only: 0.09 s (60%)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: Material Cache Hits: 29 (17%)
+[2025.03.12-14.28.12:150][481]LogShaderCompilers: Display: ================================================
+[2025.03.12-14.29.19:592][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.12-14.29.19:606][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LEVEL/NightClub_Auto1
+[2025.03.12-14.29.19:606][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/NightClub_Auto1DB254532457F0614AE33F9AF8348DF0B.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/LEVEL/NightClub_Auto1.umap'
+[2025.03.12-14.29.19:607][683]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.027
+[2025.03.12-14.29.19:607][683]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.03.12-14.29.19:609][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness] ([1] browsable assets)...
+[2025.03.12-14.29.19:611][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness.Wood063_2K_Roughness]
+[2025.03.12-14.29.19:611][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness]
+[2025.03.12-14.29.19:615][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness_Auto1
+[2025.03.12-14.29.19:615][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Wood063_2K_Roughness_Auto1D96080634554B71893209DA36EC33DF9.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness_Auto1.uasset'
+[2025.03.12-14.29.19:615][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black] ([1] browsable assets)...
+[2025.03.12-14.29.19:770][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black.Wood_Black]
+[2025.03.12-14.29.19:770][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black]
+[2025.03.12-14.29.19:775][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black_Auto1
+[2025.03.12-14.29.19:775][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Wood_Black_Auto1E8CBCD724F10BC1AA5A6FC9C785D8FAF.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black_Auto1.uasset'
+[2025.03.12-14.29.19:775][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair] ([1] browsable assets)...
+[2025.03.12-14.29.19:837][683]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Chair1/chair.chair]
+[2025.03.12-14.29.19:837][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair]
+[2025.03.12-14.29.19:845][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair_Auto1
+[2025.03.12-14.29.19:845][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/chair_Auto145A0AC0D4FE552D058A45E907A22B653.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair_Auto1.uasset'
+[2025.03.12-14.29.19:846][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001] ([1] browsable assets)...
+[2025.03.12-14.29.19:872][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001.Ficusleaf_001]
+[2025.03.12-14.29.19:872][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001]
+[2025.03.12-14.29.19:875][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001_Auto1
+[2025.03.12-14.29.19:875][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Ficusleaf_001_Auto19FD04F50424A756A756E5BA0C1AA15B1.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001_Auto1.uasset'
+[2025.03.12-14.29.19:877][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002] ([1] browsable assets)...
+[2025.03.12-14.29.19:902][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002.Ficusleaf_002]
+[2025.03.12-14.29.19:902][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002]
+[2025.03.12-14.29.19:905][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002_Auto1
+[2025.03.12-14.29.19:905][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Ficusleaf_002_Auto1993DBD83408205AB9F7812A8A7C629AE.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002_Auto1.uasset'
+[2025.03.12-14.29.19:907][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus] ([1] browsable assets)...
+[2025.03.12-14.29.19:931][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus.leaf_ficus]
+[2025.03.12-14.29.19:931][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus]
+[2025.03.12-14.29.19:934][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus_Auto1
+[2025.03.12-14.29.19:934][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/leaf_ficus_Auto1C7CC03264CC0B8FFBB2AEAB958432AE3.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus_Auto1.uasset'
+[2025.03.12-14.29.19:935][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004] ([1] browsable assets)...
+[2025.03.12-14.29.19:960][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004.Material_004]
+[2025.03.12-14.29.19:962][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004]
+[2025.03.12-14.29.19:965][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004_Auto1
+[2025.03.12-14.29.19:965][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Material_004_Auto13C5239E94CB598177F362586F246AA97.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004_Auto1.uasset'
+[2025.03.12-14.29.19:965][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001] ([1] browsable assets)...
+[2025.03.12-14.29.21:547][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001.metal_001]
+[2025.03.12-14.29.21:548][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001]
+[2025.03.12-14.29.21:550][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001_Auto1
+[2025.03.12-14.29.21:550][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/metal_001_Auto17EE3D40546FDE2909F48C6BDAD05A6E4.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001_Auto1.uasset'
+[2025.03.12-14.29.21:550][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001] ([1] browsable assets)...
+[2025.03.12-14.29.21:567][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001.pot_001]
+[2025.03.12-14.29.21:567][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001]
+[2025.03.12-14.29.21:569][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001_Auto1
+[2025.03.12-14.29.21:569][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/pot_001_Auto1C8A6E13542BD84767E729FA1A3A23377.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001_Auto1.uasset'
+[2025.03.12-14.29.21:571][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree] ([1] browsable assets)...
+[2025.03.12-14.29.21:573][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree.bark_of_tree]
+[2025.03.12-14.29.21:573][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree]
+[2025.03.12-14.29.21:574][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree_Auto1
+[2025.03.12-14.29.21:574][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_of_tree_Auto15DF6257F45AB72A834B1D9BED0685C60.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree_Auto1.uasset'
+[2025.03.12-14.29.21:576][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02] ([1] browsable assets)...
+[2025.03.12-14.29.21:577][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02.stem_ficus02]
+[2025.03.12-14.29.21:577][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02]
+[2025.03.12-14.29.21:581][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02_Auto1
+[2025.03.12-14.29.21:581][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus02_Auto1BDD2D43E428CCEFD5EDCB2849471924F.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02_Auto1.uasset'
+[2025.03.12-14.29.21:582][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03] ([1] browsable assets)...
+[2025.03.12-14.29.21:584][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03.stem_ficus03]
+[2025.03.12-14.29.21:584][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03]
+[2025.03.12-14.29.21:586][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03_Auto1
+[2025.03.12-14.29.21:586][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus03_Auto1F25BC2D34ADC02762F931180C7FE49F4.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03_Auto1.uasset'
+[2025.03.12-14.29.21:587][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo] ([1] browsable assets)...
+[2025.03.12-14.29.21:588][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo.wgxsded_4K_Albedo]
+[2025.03.12-14.29.21:588][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo]
+[2025.03.12-14.29.21:599][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo_Auto1
+[2025.03.12-14.29.21:599][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Albedo_Auto19BF3AB424CCF307C1E5FAEAACF28E69B.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo_Auto1.uasset'
+[2025.03.12-14.29.21:600][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal] ([1] browsable assets)...
+[2025.03.12-14.29.21:602][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal.wgxsded_4K_Normal]
+[2025.03.12-14.29.21:602][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal]
+[2025.03.12-14.29.21:613][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal_Auto1
+[2025.03.12-14.29.21:613][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Normal_Auto180A48327495297FFE011ADBFEBA7D7BA.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal_Auto1.uasset'
+[2025.03.12-14.29.21:613][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness] ([1] browsable assets)...
+[2025.03.12-14.29.21:616][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness.wgxsded_4K_Roughness]
+[2025.03.12-14.29.21:616][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness]
+[2025.03.12-14.29.21:620][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness_Auto1
+[2025.03.12-14.29.21:620][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Roughness_Auto1C7C82DDA448F35C47D7AA0A4B70D7D77.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness_Auto1.uasset'
+[2025.03.12-14.29.21:620][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus] ([1] browsable assets)...
+[2025.03.12-14.29.21:622][683]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus.stem_ficus]
+[2025.03.12-14.29.21:622][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus]
+[2025.03.12-14.29.21:627][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus_Auto1
+[2025.03.12-14.29.21:627][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus_Auto1CEE5891040A11177061525A89589A425.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus_Auto1.uasset'
+[2025.03.12-14.29.21:628][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1] ([1] browsable assets)...
+[2025.03.12-14.29.21:643][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1.stem_ficus1]
+[2025.03.12-14.29.21:643][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1]
+[2025.03.12-14.29.21:646][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1_Auto1
+[2025.03.12-14.29.21:646][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus1_Auto113475EA44FAC27196D8C61983CA5C3CB.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1_Auto1.uasset'
+[2025.03.12-14.29.21:647][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body] ([1] browsable assets)...
+[2025.03.12-14.29.21:664][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body.wood_body]
+[2025.03.12-14.29.21:664][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body]
+[2025.03.12-14.29.21:667][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body_Auto1
+[2025.03.12-14.29.21:667][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wood_body_Auto13525979B49A9692515CF588C8FD46ADE.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body_Auto1.uasset'
+[2025.03.12-14.29.21:667][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_] ([1] browsable assets)...
+[2025.03.12-14.29.21:689][683]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_]
+[2025.03.12-14.29.21:689][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_]
+[2025.03.12-14.29.21:694][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__Auto1
+[2025.03.12-14.29.21:694][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/PlantLivingHourglass__Auto117BC5E62420121A800F0D39767330797.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__Auto1.uasset'
+[2025.03.12-14.29.21:694][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus] ([1] browsable assets)...
+[2025.03.12-14.29.21:711][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus.bark_ficus]
+[2025.03.12-14.29.21:711][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus]
+[2025.03.12-14.29.21:714][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus_Auto1
+[2025.03.12-14.29.21:714][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_ficus_Auto18E2E36A242520652C8606D8FF8523F2A.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus_Auto1.uasset'
+[2025.03.12-14.29.21:714][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001] ([1] browsable assets)...
+[2025.03.12-14.29.21:731][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001.soil21_001]
+[2025.03.12-14.29.21:731][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001]
+[2025.03.12-14.29.21:735][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001_Auto1
+[2025.03.12-14.29.21:735][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/soil21_001_Auto1B86E618C45ED4DDA32B450AF25E244A0.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001_Auto1.uasset'
+[2025.03.12-14.29.21:735][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002] ([1] browsable assets)...
+[2025.03.12-14.29.21:752][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002.soil21_002]
+[2025.03.12-14.29.21:752][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002]
+[2025.03.12-14.29.21:755][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002_Auto1
+[2025.03.12-14.29.21:755][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/soil21_002_Auto10FAD5080479FEBFC6C9F1E854CC133D9.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002_Auto1.uasset'
+[2025.03.12-14.29.21:757][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02] ([1] browsable assets)...
+[2025.03.12-14.29.21:773][683]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02.bark_ficus02]
+[2025.03.12-14.29.21:773][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02]
+[2025.03.12-14.29.21:775][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02_Auto1
+[2025.03.12-14.29.21:775][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_ficus02_Auto13AD27387420EDFE5552389BF039EEBD2.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02_Auto1.uasset'
+[2025.03.12-14.29.21:777][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a] ([1] browsable assets)...
+[2025.03.12-14.29.21:800][683]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a]
+[2025.03.12-14.29.21:800][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a]
+[2025.03.12-14.29.21:807][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a_Auto1
+[2025.03.12-14.29.21:807][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Collection_indoor_plant_251_ficu6460FD784A1D81B61045119CC27C8B00.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a_Auto1.uasset'
+[2025.03.12-14.29.21:810][683]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001] ([1] browsable assets)...
+[2025.03.12-14.29.21:831][683]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001]
+[2025.03.12-14.29.21:831][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001]
+[2025.03.12-14.29.21:847][683]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001_Auto1
+[2025.03.12-14.29.21:848][683]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/PlantLivingHourglass__001_Auto1C18A6E054217AEC378E878852DA89396.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001_Auto1.uasset'
+[2025.03.12-14.29.21:849][683]LogFileHelpers: Auto-saving content packages took 2.240
+[2025.03.12-14.29.21:864][683]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.12-14.29.45:548][755]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 638.267090
+[2025.03.12-14.29.46:547][758]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-14.29.46:547][758]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 638.934692, Update Interval: 300.717804
+[2025.03.12-14.29.56:409][ 16]Cmd: DUPLICATE
+[2025.03.12-14.29.56:409][ 16]Cmd: ACTOR DUPLICATE
+[2025.03.12-14.30.02:902][401]Cmd: DUPLICATE
+[2025.03.12-14.30.02:902][401]Cmd: ACTOR DUPLICATE
+[2025.03.12-14.30.09:637][799]Cmd: DUPLICATE
+[2025.03.12-14.30.09:637][799]Cmd: ACTOR DUPLICATE
+[2025.03.12-14.30.27:714][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.27:714][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.27:715][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001 as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_24
+[2025.03.12-14.30.29:346][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.12-14.30.29:350][958]LogEditorActor: Deleted 0 Actors (0.015 secs)
+[2025.03.12-14.30.29:354][958]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.29:354][958]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.29:356][958]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001 as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_25
+[2025.03.12-14.30.34:032][231]Cmd: DELETE
+[2025.03.12-14.30.34:032][231]Cmd: ACTOR DELETE
+[2025.03.12-14.30.34:039][231]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.12-14.30.34:049][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.12-14.30.34:052][231]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2025.03.12-14.30.50:410][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_
+[2025.03.12-14.30.50:410][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_
+[2025.03.12-14.30.50:410][193]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_ as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_28
+[2025.03.12-14.30.50:410][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.50:411][193]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.50:411][193]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001 as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_36
+[2025.03.12-14.30.51:218][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.12-14.30.51:220][240]LogEditorActor: Deleted 0 Actors (0.013 secs)
+[2025.03.12-14.30.51:228][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.12-14.30.51:229][240]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2025.03.12-14.30.51:235][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_
+[2025.03.12-14.30.51:235][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_
+[2025.03.12-14.30.51:235][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.PlantLivingHourglass_ as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_37
+[2025.03.12-14.30.51:237][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.51:238][240]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001
+[2025.03.12-14.30.51:238][240]LogActorFactory: Actor Factory spawned StaticMesh /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.PlantLivingHourglass__001 as actor: StaticMeshActor /Game/LEVEL/NightClub.NightClub:PersistentLevel.StaticMeshActor_38
+[2025.03.12-14.31.04:427][  4]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus.leaf_ficus
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.03.12-14.31.04:432][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.03.12-14.31.04:432][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.03.12-14.31.04:433][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.03.12-14.31.04:433][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.03.12-14.31.04:433][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.03.12-14.31.04:433][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.03.12-14.31.04:433][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.03.12-14.31.04:433][  4]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.03.12-14.31.04:433][  4]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.03.12-14.31.04:449][  4]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.03.12-14.31.04:457][  4]LogStreaming: Display: FlushAsyncLoading(528): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.12-14.31.04:475][  4]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.03.12-14.31.04:483][  4]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.03.12-14.31.04:527][  4]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.03.12-14.31.04:527][  4]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.03.12-14.31.05:084][  4]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.12-14.31.05:084][  4]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.03.12-14.31.05:084][  4]MaterialEditorStats: Shader Count: 0
+[2025.03.12-14.31.05:084][  4]MaterialEditorStats: Preshaders: 3  (3 param fetches, 10 ops)
+[2025.03.12-14.31.05:108][  4]LogSlate: Took 0.007165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.12-14.31.05:438][  5]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.03.12-14.31.06:661][ 44]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineDebugMaterials: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineDebugMaterials' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.06:661][ 44]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.07:511][ 74]LogSlate: Window 'leaf_ficus' being destroyed
+[2025.03.12-14.31.07:523][ 74]LogSlate: Window 'leaf_ficus' being destroyed
+[2025.03.12-14.31.09:520][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/LevelTransformMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/LevelTransformMaterial.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.10:293][215]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/BufferVisualization/LightingModel.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BufferVisualization/LightingModel.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.10:360][219]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineDebugMaterials/LightmapResolutionMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineDebugMaterials/LightmapResolutionMaterial.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.10:393][221]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MAT.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MAT.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.10:426][223]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MATInst.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EditorMaterials/Utilities/LinearColorPicker_MATInst.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.10:476][226]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/FloatingText/LineMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/VREditor/FloatingText/LineMaterial.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.12:152][321]LogShaderCompilers: Display: ================================================
+[2025.03.12-14.31.12:152][321]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Total job queries 534, among them cache hits 41 (7.68%), DDC hits 280 (52.43%), Duplicates 21 (3.93%)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Tracking 472 distinct input hashes that result in 373 distinct outputs (79.03%)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: RAM used: 212,84 KiB of 819,20 MiB budget. Usage: 0.03%
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Shaders Compiled: 192
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Jobs assigned 192, completed 192 (100%)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Average time worker was idle: 39.40 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Time job spent in pending queue: average 1.48 s, longest 11.58 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Job execution time: average 4.12 s, max 11.43 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Job life time (pending + execution): average 5.60 s, max 13.62
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Shader code size: average 10,432 KiB, min 4,109 KiB, max 20,191 KiB
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 40.56 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Jobs were issued in 100 batches (only local compilation was used), average 1.92 jobs/batch
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Average processing rate: 4.73 jobs/sec
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Total thread time: 213,857 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Total thread preprocess time: 10,042 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Percentage time preprocessing: 4.70%
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Effective parallelization: 5.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   10 times, average 2.38 sec, max 2.72 sec, min 2.02 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   10 times, average 2.36 sec, max 2.80 sec, min 1.84 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   10 times, average 1.93 sec, max 2.37 sec, min 1.63 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   11 times, average 1.66 sec, max 2.41 sec, min 0.96 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.61 sec, max 1.67 sec, min 1.56 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 16.63% of total time (compiled   23 times, average 1.55 sec, max 2.23 sec, min 0.94 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.68% of total time (compiled   21 times, average 1.50 sec, max 2.00 sec, min 0.80 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 11.12% of total time (compiled   10 times, average 2.38 sec, max 2.72 sec, min 2.02 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 11.04% of total time (compiled   10 times, average 2.36 sec, max 2.80 sec, min 1.84 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display:                                                 FLumenCardCS - 9.04% of total time (compiled   10 times, average 1.93 sec, max 2.37 sec, min 1.63 sec)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: === Material stats ===
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Materials Translated:    183
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Material Translation Only: 0.10 s (59%)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2025.03.12-14.31.12:154][321]LogShaderCompilers: Display: ================================================
+[2025.03.12-14.31.31:317][409]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.31:317][409]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.33:720][548]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content/Materials: 'C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Enterprise/GLTFExporter/Content/Materials' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.36:389][699]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineMaterials' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.36:389][699]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.5/Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset: 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/BufferVisualization/PreTonemapHDRColor.uasset' is outside repository at 'C:/Users/mitch/Desktop/GitHub/RogueDance'
+[2025.03.12-14.31.44:143][138]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.12-14.32.01:700][156]Cmd: TRANSACTION UNDO
+[2025.03.12-14.32.01:700][156]LogEditorTransaction: Undo Scale Elements
+[2025.03.12-14.32.04:729][317]Cmd: TRANSACTION UNDO
+[2025.03.12-14.32.04:729][317]LogEditorTransaction: Undo Scale Elements
+[2025.03.12-14.32.44:999][700]Cmd: TRANSACTION UNDO
+[2025.03.12-14.32.44:999][700]LogEditorTransaction: Undo Move Elements
+[2025.03.12-14.32.55:293][302]Cmd: DUPLICATE
+[2025.03.12-14.32.55:293][302]Cmd: ACTOR DUPLICATE
+[2025.03.12-14.33.07:024][995]Cmd: TRANSACTION UNDO
+[2025.03.12-14.33.07:024][995]LogEditorTransaction: Undo Move Elements
+[2025.03.12-14.33.14:080][400]Cmd: DUPLICATE
+[2025.03.12-14.33.14:080][400]Cmd: ACTOR DUPLICATE
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: ================================================
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Total job queries 555, among them cache hits 41 (7.39%), DDC hits 283 (50.99%), Duplicates 21 (3.78%)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Tracking 493 distinct input hashes that result in 385 distinct outputs (78.09%)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: RAM used: 217,04 KiB of 819,20 MiB budget. Usage: 0.03%
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Shaders Compiled: 210
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Jobs assigned 210, completed 210 (100%)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Average time worker was idle: 34.54 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Time job spent in pending queue: average 1.36 s, longest 11.58 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Job execution time: average 3.83 s, max 11.43 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Job life time (pending + execution): average 5.19 s, max 13.62
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Shader code size: average 10,146 KiB, min 3,215 KiB, max 20,191 KiB
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 45.23 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.08%
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Jobs were issued in 118 batches (only local compilation was used), average 1.78 jobs/batch
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Average processing rate: 4.64 jobs/sec
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Total thread time: 224,379 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Total thread preprocess time: 10,318 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Percentage time preprocessing: 4.60%
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Effective parallelization: 4.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled   10 times, average 2.38 sec, max 2.72 sec, min 2.02 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled   10 times, average 2.36 sec, max 2.80 sec, min 1.84 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled   10 times, average 1.93 sec, max 2.37 sec, min 1.63 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   11 times, average 1.66 sec, max 2.41 sec, min 0.96 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 1.61 sec, max 1.67 sec, min 1.56 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.50% of total time (compiled   27 times, average 1.45 sec, max 2.23 sec, min 0.86 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 14.00% of total time (compiled   21 times, average 1.50 sec, max 2.00 sec, min 0.80 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 10.60% of total time (compiled   10 times, average 2.38 sec, max 2.72 sec, min 2.02 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 10.52% of total time (compiled   10 times, average 2.36 sec, max 2.80 sec, min 1.84 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display:                                                 FLumenCardCS - 8.61% of total time (compiled   10 times, average 1.93 sec, max 2.37 sec, min 1.63 sec)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: === Material stats ===
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Materials Translated:    183
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Material Total Translate Time: 0.17 s
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Material Translation Only: 0.10 s (59%)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: Material Cache Hits: 29 (16%)
+[2025.03.12-14.34.12:168][853]LogShaderCompilers: Display: ================================================
+[2025.03.12-14.34.51:863][212]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 944.581360
+[2025.03.12-14.34.52:045][222]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-14.34.52:045][222]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 944.749390, Update Interval: 302.096619
+[2025.03.12-14.39.22:114][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.12-14.39.22:127][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LEVEL/NightClub_Auto2
+[2025.03.12-14.39.22:128][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/NightClub_Auto25C45C85D4970FF1A45D360BA6F5C071B.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/LEVEL/NightClub_Auto2.umap'
+[2025.03.12-14.39.22:129][406]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.042
+[2025.03.12-14.39.22:129][406]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2025.03.12-14.39.22:129][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness] ([1] browsable assets)...
+[2025.03.12-14.39.22:129][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness]
+[2025.03.12-14.39.22:132][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness_Auto2
+[2025.03.12-14.39.22:132][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Wood063_2K_Roughness_Auto21680FD734D7220719C985AB9795207D6.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness_Auto2.uasset'
+[2025.03.12-14.39.22:133][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black] ([1] browsable assets)...
+[2025.03.12-14.39.22:133][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black]
+[2025.03.12-14.39.22:134][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black_Auto2
+[2025.03.12-14.39.22:134][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Wood_Black_Auto208705D51450B1AAC67E1D2A47DBF466D.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black_Auto2.uasset'
+[2025.03.12-14.39.22:136][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair] ([1] browsable assets)...
+[2025.03.12-14.39.22:136][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair]
+[2025.03.12-14.39.22:142][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair_Auto2
+[2025.03.12-14.39.22:142][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/chair_Auto2514015A74CB797E587AB79B4F75107C5.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair_Auto2.uasset'
+[2025.03.12-14.39.22:143][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001] ([1] browsable assets)...
+[2025.03.12-14.39.22:143][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001]
+[2025.03.12-14.39.22:145][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001_Auto2
+[2025.03.12-14.39.22:145][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Ficusleaf_001_Auto2722120034ACACDACEC6F35A073095AD9.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001_Auto2.uasset'
+[2025.03.12-14.39.22:147][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002] ([1] browsable assets)...
+[2025.03.12-14.39.22:147][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002]
+[2025.03.12-14.39.22:149][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002_Auto2
+[2025.03.12-14.39.22:149][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Ficusleaf_002_Auto2FAAB62F4459E4C6A7744F5B4509CC4D6.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002_Auto2.uasset'
+[2025.03.12-14.39.22:149][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus] ([1] browsable assets)...
+[2025.03.12-14.39.22:149][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus]
+[2025.03.12-14.39.22:151][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus_Auto2
+[2025.03.12-14.39.22:152][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/leaf_ficus_Auto235D34E624C1947A5797D888112D6A00D.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus_Auto2.uasset'
+[2025.03.12-14.39.22:152][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004] ([1] browsable assets)...
+[2025.03.12-14.39.22:152][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004]
+[2025.03.12-14.39.22:154][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004_Auto2
+[2025.03.12-14.39.22:154][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Material_004_Auto276418D054F7CEF8E7A4806AF7FFAFC68.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004_Auto2.uasset'
+[2025.03.12-14.39.22:155][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001] ([1] browsable assets)...
+[2025.03.12-14.39.22:155][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001]
+[2025.03.12-14.39.22:157][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001_Auto2
+[2025.03.12-14.39.22:157][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/metal_001_Auto2348BA46940342C221F4E00A776D9C585.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001_Auto2.uasset'
+[2025.03.12-14.39.22:159][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001] ([1] browsable assets)...
+[2025.03.12-14.39.22:159][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001]
+[2025.03.12-14.39.22:160][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001_Auto2
+[2025.03.12-14.39.22:160][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/pot_001_Auto2BE0054A44974BF9F6C5992B68CE5F327.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001_Auto2.uasset'
+[2025.03.12-14.39.22:161][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree] ([1] browsable assets)...
+[2025.03.12-14.39.22:161][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree]
+[2025.03.12-14.39.22:162][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree_Auto2
+[2025.03.12-14.39.22:162][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_of_tree_Auto2B4B17DCA474742DCC185A2A122339470.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree_Auto2.uasset'
+[2025.03.12-14.39.22:164][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02] ([1] browsable assets)...
+[2025.03.12-14.39.22:164][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02]
+[2025.03.12-14.39.22:167][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02_Auto2
+[2025.03.12-14.39.22:167][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus02_Auto23D4301994990BE24BCF206960E35C446.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02_Auto2.uasset'
+[2025.03.12-14.39.22:168][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03] ([1] browsable assets)...
+[2025.03.12-14.39.22:168][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03]
+[2025.03.12-14.39.22:170][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03_Auto2
+[2025.03.12-14.39.22:170][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus03_Auto21A8274634C2A84AFB3A9DEB0CD4D9CBE.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03_Auto2.uasset'
+[2025.03.12-14.39.22:170][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo] ([1] browsable assets)...
+[2025.03.12-14.39.22:170][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo]
+[2025.03.12-14.39.22:180][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo_Auto2
+[2025.03.12-14.39.22:180][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Albedo_Auto2843307634E50F9DB4B32AF94DADEFEFD.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo_Auto2.uasset'
+[2025.03.12-14.39.22:180][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal] ([1] browsable assets)...
+[2025.03.12-14.39.22:180][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal]
+[2025.03.12-14.39.22:190][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal_Auto2
+[2025.03.12-14.39.22:190][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Normal_Auto20AC81AB046FD7F70B9B135A9A65EAA98.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal_Auto2.uasset'
+[2025.03.12-14.39.22:192][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness] ([1] browsable assets)...
+[2025.03.12-14.39.22:192][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness]
+[2025.03.12-14.39.22:195][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness_Auto2
+[2025.03.12-14.39.22:195][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Roughness_Auto25E04F65942953B10CD1CF08BC73AC916.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness_Auto2.uasset'
+[2025.03.12-14.39.22:196][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus] ([1] browsable assets)...
+[2025.03.12-14.39.22:196][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus]
+[2025.03.12-14.39.22:199][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus_Auto2
+[2025.03.12-14.39.22:199][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus_Auto2A181D0A04EAF5F138161FF87D083B39A.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus_Auto2.uasset'
+[2025.03.12-14.39.22:200][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1] ([1] browsable assets)...
+[2025.03.12-14.39.22:200][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1]
+[2025.03.12-14.39.22:204][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1_Auto2
+[2025.03.12-14.39.22:204][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus1_Auto2C88A08294E94942072336497E086AF0F.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1_Auto2.uasset'
+[2025.03.12-14.39.22:204][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body] ([1] browsable assets)...
+[2025.03.12-14.39.22:204][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body]
+[2025.03.12-14.39.22:206][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body_Auto2
+[2025.03.12-14.39.22:206][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wood_body_Auto2CD8CC4CA419B6B0F84D9278922DB9876.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body_Auto2.uasset'
+[2025.03.12-14.39.22:208][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_] ([1] browsable assets)...
+[2025.03.12-14.39.22:208][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_]
+[2025.03.12-14.39.22:211][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__Auto2
+[2025.03.12-14.39.22:211][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/PlantLivingHourglass__Auto2406CE841486690D86569B4ACF2EE72E2.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__Auto2.uasset'
+[2025.03.12-14.39.22:211][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus] ([1] browsable assets)...
+[2025.03.12-14.39.22:211][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus]
+[2025.03.12-14.39.22:214][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus_Auto2
+[2025.03.12-14.39.22:214][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_ficus_Auto2668D41B04AC11A6BF95A2685EA46184B.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus_Auto2.uasset'
+[2025.03.12-14.39.22:215][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001] ([1] browsable assets)...
+[2025.03.12-14.39.22:215][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001]
+[2025.03.12-14.39.22:217][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001_Auto2
+[2025.03.12-14.39.22:217][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/soil21_001_Auto245B742F045F7C0DD3D366289A6CE1B7B.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001_Auto2.uasset'
+[2025.03.12-14.39.22:219][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002] ([1] browsable assets)...
+[2025.03.12-14.39.22:219][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002]
+[2025.03.12-14.39.22:221][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002_Auto2
+[2025.03.12-14.39.22:221][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/soil21_002_Auto2D1B368E94E04D35E7CBF93BC0F3C81AE.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002_Auto2.uasset'
+[2025.03.12-14.39.22:223][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02] ([1] browsable assets)...
+[2025.03.12-14.39.22:223][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02]
+[2025.03.12-14.39.22:224][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02_Auto2
+[2025.03.12-14.39.22:224][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_ficus02_Auto28458F39943118D0F54D61CB470A4E296.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02_Auto2.uasset'
+[2025.03.12-14.39.22:226][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a] ([1] browsable assets)...
+[2025.03.12-14.39.22:226][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a]
+[2025.03.12-14.39.22:235][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a_Auto2
+[2025.03.12-14.39.22:235][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Collection_indoor_plant_251_ficu4E8A923D4D72D674D309C4AC3C3A16C3.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a_Auto2.uasset'
+[2025.03.12-14.39.22:236][406]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001] ([1] browsable assets)...
+[2025.03.12-14.39.22:236][406]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001]
+[2025.03.12-14.39.22:252][406]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001_Auto2
+[2025.03.12-14.39.22:252][406]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/PlantLivingHourglass__001_Auto2DB5D1CE04797CC05699CADA36E610306.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001_Auto2.uasset'
+[2025.03.12-14.39.22:254][406]LogFileHelpers: Auto-saving content packages took 0.124
+[2025.03.12-14.40.09:582][241]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1262.299072
+[2025.03.12-14.40.09:731][250]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-14.40.09:732][250]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1262.432617, Update Interval: 340.050049
+[2025.03.12-14.46.14:836][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1627.559937
+[2025.03.12-14.46.14:986][165]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-14.46.14:986][165]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1627.693359, Update Interval: 351.031219
+[2025.03.12-14.49.32:639][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.12-14.49.32:654][831]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LEVEL/NightClub_Auto3
+[2025.03.12-14.49.32:655][831]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/NightClub_Auto38C061B5B4C214EC84B16D09F90236DEB.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Autosaves/Game/LEVEL/NightClub_Auto3.umap'
+[2025.03.12-14.49.32:657][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.027
+[2025.03.12-14.49.32:657][831]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.027
+[2025.03.12-14.52.38:562][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2011.291260
+[2025.03.12-14.52.39:562][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.12-14.52.39:563][687]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2011.958252, Update Interval: 351.062347
+[2025.03.12-14.55.01:590][917]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.03.12-14.55.01:603][917]LogContentBrowser: Creating deferred item: NewFolder
+[2025.03.12-14.55.01:616][918]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.03.12-14.55.04:850][111]LogContentBrowser: Attempting asset rename: NewFolder -> PNGs
+[2025.03.12-14.55.04:850][111]LogContentBrowser: End creating deferred item NewFolder
+[2025.03.12-14.55.12:876][263]LogStreaming: Display: FlushAsyncLoading(532): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.12-14.55.12:911][263]LogInterchangeEngine: [Pending] Importing
+[2025.03.12-14.55.12:912][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/58552121_9461006.jpg]
+[2025.03.12-14.55.12:912][263]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.03.12-14.55.12:912][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/34305323_8129143.jpg]
+[2025.03.12-14.55.12:914][263]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.03.12-14.55.12:914][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/2150157401.jpg]
+[2025.03.12-14.55.12:914][263]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.03.12-14.55.12:914][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/16155957_5729768.jpg]
+[2025.03.12-14.55.12:914][263]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.03.12-14.55.12:914][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/IMG_3432.jpg]
+[2025.03.12-14.55.12:915][263]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.03.12-14.55.12:915][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/IMG_3442.png]
+[2025.03.12-14.55.12:916][263]LogInterchangeEngine: [Pending] Importing -  (7)
+[2025.03.12-14.55.12:916][263]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/mitch/Downloads/58509560_9375370.jpg]
+[2025.03.12-14.55.12:977][265]LogStreaming: Display: FlushAsyncLoading(539): 1 QueuedPackages, 0 AsyncPackages
+[2025.03.12-14.55.12:979][266]LogInterchangeImport: JPEG file [C:/Users/mitch/Downloads/16155957_5729768.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.03.12-14.55.12:979][266]LogInterchangeImport: JPEG file [C:/Users/mitch/Downloads/IMG_3432.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.03.12-14.55.12:979][266]LogInterchangeImport: JPEG file [C:/Users/mitch/Downloads/58509560_9375370.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.03.12-14.55.12:979][266]LogInterchangeImport: JPEG file [C:/Users/mitch/Downloads/58552121_9461006.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.03.12-14.55.12:979][266]LogInterchangeImport: JPEG file [C:/Users/mitch/Downloads/34305323_8129143.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.03.12-14.55.12:979][266]LogInterchangeImport: JPEG file [C:/Users/mitch/Downloads/2150157401.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'.
+[2025.03.12-14.55.13:023][266]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/16155957_5729768.16155957_5729768 (BGRA8, 1159x1639 x1x1x1) (Required Memory Estimate: 66.217617 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:053][267]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/34305323_8129143.34305323_8129143 (BGRA8, 1230x1743 x1x1x1) (Required Memory Estimate: 74.604622 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:063][267]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/58552121_9461006.58552121_9461006 (TFO_AutoDXT, 2300x3264 x1x1x1) (Required Memory Estimate: 502.159668 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:076][267]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/16155957_5729768.jpg]
+[2025.03.12-14.55.13:076][267]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.03.12-14.55.13:144][268]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/58509560_9375370.58509560_9375370 (BGRA8, 2307x3277 x1x1x1) (Required Memory Estimate: 260.553341 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:359][269]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/58552121_9461006.jpg]
+[2025.03.12-14.55.13:359][269]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.03.12-14.55.13:361][269]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/58509560_9375370.jpg]
+[2025.03.12-14.55.13:361][269]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.03.12-14.55.13:364][269]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/IMG_3442.IMG_3442 (BGRA8, 583x1173 x1x1x1) (Required Memory Estimate: 24.478436 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:368][269]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/34305323_8129143.jpg]
+[2025.03.12-14.55.13:368][269]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.03.12-14.55.13:375][270]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/2150157401.2150157401 (BGRA8, 707x1000 x1x1x1) (Required Memory Estimate: 25.272903 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:429][270]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/IMG_3442.png]
+[2025.03.12-14.55.13:429][270]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.03.12-14.55.13:444][271]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/2150157401.jpg]
+[2025.03.12-14.55.13:444][271]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.03.12-14.55.13:488][274]LogTexture: Display: Building textures: /Game/ART/Yasser/PNGs/IMG_3432.IMG_3432 (BGRA8, 4961x7017 x1x1x1) (Required Memory Estimate: 1196.152409 MB), EncodeSpeed: Fast
+[2025.03.12-14.55.13:683][284]LogInterchangeEngine: Display: Interchange import completed [C:/Users/mitch/Downloads/IMG_3432.jpg]
+[2025.03.12-14.55.13:713][284]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.03.12-14.55.13:713][284]LogInterchangeEngine: [Success] Import Done
+[2025.03.12-14.55.14:827][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.12-14.55.15:126][349]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.12-14.55.15:221][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LEVEL/NightClub" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/LEVEL/NightClub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.12-14.55.15:288][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.12-14.55.15:299][349]LogSavePackage: Moving output files for package: /Game/LEVEL/NightClub
+[2025.03.12-14.55.15:299][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/NightClub7810323F43D111E43BB5CFBFFFA2F5C3.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/LEVEL/NightClub.umap'
+[2025.03.12-14.55.15:324][349]LogFileHelpers: Saving map 'NightClub' took 0.104
+[2025.03.12-14.55.15:324][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness] ([1] browsable assets)...
+[2025.03.12-14.55.15:324][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness]
+[2025.03.12-14.55.15:332][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness
+[2025.03.12-14.55.15:332][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Wood063_2K_Roughness9B13C14348F81C96A15A28931117714F.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness.uasset'
+[2025.03.12-14.55.15:333][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black] ([1] browsable assets)...
+[2025.03.12-14.55.15:333][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black]
+[2025.03.12-14.55.15:336][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black
+[2025.03.12-14.55.15:336][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Wood_Black91454240446D5832C375A09905FE094D.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black.uasset'
+[2025.03.12-14.55.15:337][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair] ([1] browsable assets)...
+[2025.03.12-14.55.15:337][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Chair1/chair]
+[2025.03.12-14.55.15:344][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Chair1/chair
+[2025.03.12-14.55.15:344][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/chair2E3A23C64CB95DFB92FE7ABC2BD50815.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Chair1/chair.uasset'
+[2025.03.12-14.55.15:346][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001] ([1] browsable assets)...
+[2025.03.12-14.55.15:346][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001]
+[2025.03.12-14.55.15:349][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001
+[2025.03.12-14.55.15:349][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Ficusleaf_001B1008AFD4D823511A11670B7F4911FAD.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001.uasset'
+[2025.03.12-14.55.15:351][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002] ([1] browsable assets)...
+[2025.03.12-14.55.15:351][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002]
+[2025.03.12-14.55.15:354][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002
+[2025.03.12-14.55.15:354][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Ficusleaf_002AE1097404E95E535E65B2991A6AD404D.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002.uasset'
+[2025.03.12-14.55.15:356][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus] ([1] browsable assets)...
+[2025.03.12-14.55.15:356][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus]
+[2025.03.12-14.55.15:358][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus
+[2025.03.12-14.55.15:358][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/leaf_ficus27B130D948C64CC55F29F09E235D94D6.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus.uasset'
+[2025.03.12-14.55.15:359][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004] ([1] browsable assets)...
+[2025.03.12-14.55.15:359][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004]
+[2025.03.12-14.55.15:361][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004
+[2025.03.12-14.55.15:361][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Material_0048305ABE74E718E9DB806DC9FA691D9CA.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004.uasset'
+[2025.03.12-14.55.15:362][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001] ([1] browsable assets)...
+[2025.03.12-14.55.15:362][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001]
+[2025.03.12-14.55.15:364][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001
+[2025.03.12-14.55.15:364][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/metal_001FCEDE48A4034960A0C9EB2A74DC36E0A.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001.uasset'
+[2025.03.12-14.55.15:366][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001] ([1] browsable assets)...
+[2025.03.12-14.55.15:366][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001]
+[2025.03.12-14.55.15:368][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001
+[2025.03.12-14.55.15:368][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/pot_001DF6C9E544D8E39E4F9E3329722ADA30A.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001.uasset'
+[2025.03.12-14.55.15:370][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree] ([1] browsable assets)...
+[2025.03.12-14.55.15:370][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree]
+[2025.03.12-14.55.15:377][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree
+[2025.03.12-14.55.15:377][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_of_treeD9D241444BD1542E0C286FACFF8FBB37.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree.uasset'
+[2025.03.12-14.55.15:379][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02] ([1] browsable assets)...
+[2025.03.12-14.55.15:379][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02]
+[2025.03.12-14.55.15:388][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02
+[2025.03.12-14.55.15:388][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus02D475FB334E0E01DDF3C4A79EEDF86BC0.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02.uasset'
+[2025.03.12-14.55.15:389][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03] ([1] browsable assets)...
+[2025.03.12-14.55.15:389][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03]
+[2025.03.12-14.55.15:391][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03
+[2025.03.12-14.55.15:391][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus03A17A47CF4ABB833F72EFC4BE78966994.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03.uasset'
+[2025.03.12-14.55.15:393][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo] ([1] browsable assets)...
+[2025.03.12-14.55.15:393][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo]
+[2025.03.12-14.55.15:462][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo
+[2025.03.12-14.55.15:464][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Albedo651A4B814C60C0BC201B658BC18F600B.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo.uasset'
+[2025.03.12-14.55.15:466][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal] ([1] browsable assets)...
+[2025.03.12-14.55.15:466][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal]
+[2025.03.12-14.55.15:530][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal
+[2025.03.12-14.55.15:530][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Normal0FBCA9194A896740E2E815A7C3DA0858.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal.uasset'
+[2025.03.12-14.55.15:531][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness] ([1] browsable assets)...
+[2025.03.12-14.55.15:531][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness]
+[2025.03.12-14.55.15:551][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness
+[2025.03.12-14.55.15:551][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wgxsded_4K_Roughness9AA374F0490993CF1D5E1E865A21B650.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness.uasset'
+[2025.03.12-14.55.15:552][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus] ([1] browsable assets)...
+[2025.03.12-14.55.15:552][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus]
+[2025.03.12-14.55.15:564][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus
+[2025.03.12-14.55.15:564][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficusE0D8C67141AB40DF8EAE6FB39D54864C.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus.uasset'
+[2025.03.12-14.55.15:566][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1] ([1] browsable assets)...
+[2025.03.12-14.55.15:566][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1]
+[2025.03.12-14.55.15:570][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1
+[2025.03.12-14.55.15:570][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/stem_ficus1DD1A76464C22BB719E5D13B2AF6ABB6E.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1.uasset'
+[2025.03.12-14.55.15:572][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body] ([1] browsable assets)...
+[2025.03.12-14.55.15:572][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body]
+[2025.03.12-14.55.15:573][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body
+[2025.03.12-14.55.15:573][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/wood_bodyB2D0530B494B7C3FC6E3428BCEC7EE50.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body.uasset'
+[2025.03.12-14.55.15:575][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_] ([1] browsable assets)...
+[2025.03.12-14.55.15:575][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_]
+[2025.03.12-14.55.15:579][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_
+[2025.03.12-14.55.15:579][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/PlantLivingHourglass_A8D69E674ABDE3FA75ED278B2304DD28.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_.uasset'
+[2025.03.12-14.55.15:582][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus] ([1] browsable assets)...
+[2025.03.12-14.55.15:582][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus]
+[2025.03.12-14.55.15:584][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus
+[2025.03.12-14.55.15:584][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_ficus6CF4517A4A00A3E7D5ADCA898EECD5E2.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus.uasset'
+[2025.03.12-14.55.15:586][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001] ([1] browsable assets)...
+[2025.03.12-14.55.15:586][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001]
+[2025.03.12-14.55.15:590][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001
+[2025.03.12-14.55.15:590][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/soil21_0012AC4823F4CFB2B19C700DBB36927E8D3.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001.uasset'
+[2025.03.12-14.55.15:591][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002] ([1] browsable assets)...
+[2025.03.12-14.55.15:591][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002]
+[2025.03.12-14.55.15:594][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002
+[2025.03.12-14.55.15:594][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/soil21_002634CD6BB42CC9D1BF635D496D4FBB1CD.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002.uasset'
+[2025.03.12-14.55.15:596][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02] ([1] browsable assets)...
+[2025.03.12-14.55.15:596][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02]
+[2025.03.12-14.55.15:597][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02
+[2025.03.12-14.55.15:599][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/bark_ficus02E5847CE444012B2166A08B95780D0545.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02.uasset'
+[2025.03.12-14.55.15:601][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a] ([1] browsable assets)...
+[2025.03.12-14.55.15:601][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a]
+[2025.03.12-14.55.15:610][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a
+[2025.03.12-14.55.15:610][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/Collection_indoor_plant_251_ficu036349D443B79A99A2DC6E9FD8C95DF8.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a.uasset'
+[2025.03.12-14.55.15:612][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001] ([1] browsable assets)...
+[2025.03.12-14.55.15:612][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001]
+[2025.03.12-14.55.15:630][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001
+[2025.03.12-14.55.15:630][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/PlantLivingHourglass__001048860E74C84181829CB1EBC495230E4.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001.uasset'
+[2025.03.12-14.55.15:633][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/16155957_5729768] ([1] browsable assets)...
+[2025.03.12-14.55.15:634][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/16155957_5729768.16155957_5729768]
+[2025.03.12-14.55.15:634][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/16155957_5729768]
+[2025.03.12-14.55.15:634][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/16155957_5729768" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/16155957_5729768.uasset" SILENT=true
+[2025.03.12-14.55.15:637][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/16155957_5729768
+[2025.03.12-14.55.15:637][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/16155957_57297681B0A491142353D4ABA45C0A74D792E9D.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/16155957_5729768.uasset'
+[2025.03.12-14.55.15:637][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/58552121_9461006] ([1] browsable assets)...
+[2025.03.12-14.55.15:640][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/58552121_9461006.58552121_9461006]
+[2025.03.12-14.55.15:640][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/58552121_9461006]
+[2025.03.12-14.55.15:640][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/58552121_9461006" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/58552121_9461006.uasset" SILENT=true
+[2025.03.12-14.55.15:643][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/58552121_9461006
+[2025.03.12-14.55.15:643][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/58552121_9461006DB266B6147983D45994B25989D8CA353.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/58552121_9461006.uasset'
+[2025.03.12-14.55.15:644][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/34305323_8129143] ([1] browsable assets)...
+[2025.03.12-14.55.15:646][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/34305323_8129143.34305323_8129143]
+[2025.03.12-14.55.15:646][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/34305323_8129143]
+[2025.03.12-14.55.15:646][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/34305323_8129143" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/34305323_8129143.uasset" SILENT=true
+[2025.03.12-14.55.15:648][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/34305323_8129143
+[2025.03.12-14.55.15:648][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/34305323_8129143F3B4FBC5490E7507730FB8ACABE97353.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/34305323_8129143.uasset'
+[2025.03.12-14.55.15:649][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/58509560_9375370] ([1] browsable assets)...
+[2025.03.12-14.55.15:652][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/58509560_9375370.58509560_9375370]
+[2025.03.12-14.55.15:652][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/58509560_9375370]
+[2025.03.12-14.55.15:652][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/58509560_9375370" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/58509560_9375370.uasset" SILENT=true
+[2025.03.12-14.55.15:653][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/58509560_9375370
+[2025.03.12-14.55.15:653][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/58509560_93753700249E56B48E24D83A53AB195307EC437.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/58509560_9375370.uasset'
+[2025.03.12-14.55.15:655][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/IMG_3432] ([1] browsable assets)...
+[2025.03.12-14.55.15:658][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/IMG_3432.IMG_3432]
+[2025.03.12-14.55.15:658][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/IMG_3432]
+[2025.03.12-14.55.15:658][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/IMG_3432" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/IMG_3432.uasset" SILENT=true
+[2025.03.12-14.55.15:664][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/IMG_3432
+[2025.03.12-14.55.15:664][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/IMG_3432F944BE424CACEAE8445958B0F02453CD.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/IMG_3432.uasset'
+[2025.03.12-14.55.15:666][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/IMG_3442] ([1] browsable assets)...
+[2025.03.12-14.55.15:668][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/IMG_3442.IMG_3442]
+[2025.03.12-14.55.15:668][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/IMG_3442]
+[2025.03.12-14.55.15:668][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/IMG_3442" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/IMG_3442.uasset" SILENT=true
+[2025.03.12-14.55.15:678][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/IMG_3442
+[2025.03.12-14.55.15:678][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/IMG_3442816D2C49490DAC119D73848157482674.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/IMG_3442.uasset'
+[2025.03.12-14.55.15:680][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ART/Yasser/PNGs/2150157401] ([1] browsable assets)...
+[2025.03.12-14.55.15:681][349]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/ART/Yasser/PNGs/2150157401.2150157401]
+[2025.03.12-14.55.15:681][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/ART/Yasser/PNGs/2150157401]
+[2025.03.12-14.55.15:681][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ART/Yasser/PNGs/2150157401" FILE="../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/2150157401.uasset" SILENT=true
+[2025.03.12-14.55.15:684][349]LogSavePackage: Moving output files for package: /Game/ART/Yasser/PNGs/2150157401
+[2025.03.12-14.55.15:684][349]LogSavePackage: Moving '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Saved/21501574010192BBAD45270B69CCD3F08E8EC2E6C5.tmp' to '../../../../../../Users/mitch/Desktop/GitHub/RogueDance/RogueDance/Content/ART/Yasser/PNGs/2150157401.uasset'
+[2025.03.12-14.55.17:205][349]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.07 sec
+[2025.03.12-14.55.17:306][349]LogContentValidation: Display: Starting to validate 33 assets
+[2025.03.12-14.55.17:307][349]LogContentValidation: Enabled validators:
+[2025.03.12-14.55.17:307][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.12-14.55.17:307][349]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.12-14.55.17:307][349]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.12-14.55.17:307][349]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.12-14.55.17:307][349]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.12-14.55.17:307][349]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/LEVEL/NightClub Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood063_2K_Roughness Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Chair1/Wood_Black Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Chair1/chair Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_001 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Ficusleaf_002 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/leaf_ficus Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Material_004 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/metal_001 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/pot_001 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_of_tree Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus02 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus03 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Albedo Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Normal Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wgxsded_4K_Roughness Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/stem_ficus1 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/wood_body Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass_ Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_001 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/soil21_002 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/bark_ficus02 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/Collection_indoor_plant_251_ficus_lyrata_monstera_palm__4642d3a Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/Meshes/Nightclub/Indoor_Plants/PlantLivingHourglass__001 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/16155957_5729768 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/58552121_9461006 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/34305323_8129143 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/58509560_9375370 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/IMG_3432 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/IMG_3442 Validating asset
+[2025.03.12-14.55.17:308][349]AssetCheck: /Game/ART/Yasser/PNGs/2150157401 Validating asset
+[2025.03.12-14.55.17:344][349]LogAutomationController: Ignoring very large delta of 2.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
