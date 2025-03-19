@@ -5828,3 +5828,1088 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.03.19-10.54.19:505][678]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
 [2025.03.19-10.54.19:512][678]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
 [2025.03.19-10.54.19:555][679]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.03.19-10.57.27:992][808]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5811.647949
+[2025.03.19-10.57.28:134][825]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-10.57.28:134][825]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5811.781738, Update Interval: 334.587860
+[2025.03.19-11.00.16:993][926]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.00.17:009][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.00.17:010][926]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.00.17:017][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007611s)
+[2025.03.19-11.00.17:017][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007653s)
+[2025.03.19-11.00.17:063][926]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.03.19-11.00.17:066][926]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.00.17:068][926]LogPlayLevel: PIE: World Init took: (0.001589s)
+[2025.03.19-11.00.17:069][926]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.00.17:069][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.00.17:069][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.00.17:069][926]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.00.17:069][926]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.00.17:069][926]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.00.17:072][926]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.00.17:088][926]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.00.17:088][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.00.17:088][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.00.17:088][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.00.17:089][926]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2025.03.19-11.00.17:089][926]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=34
+[2025.03.19-11.00.17:091][926]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2025.03.19-11.00.17:091][926]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2025.03.19-11.00.17:091][926]LogInit: FAudioDevice initialized with ID 34.
+[2025.03.19-11.00.17:091][926]LogAudio: Display: Audio Device (ID: 34) registered with world 'NightClub'.
+[2025.03.19-11.00.17:091][926]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2025.03.19-11.00.17:142][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.00.17:142][926]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.00.17:145][926]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.00.17
+[2025.03.19-11.00.17:146][926]LogWorld: Bringing up level for play took: 0.003647
+[2025.03.19-11.00.17:148][926]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.03.19-11.00.17:156][926]PIE: Server logged in
+[2025.03.19-11.00.17:157][926]PIE: Play in editor total start time 0,148 seconds.
+[2025.03.19-11.00.24:175][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.00.24:175][336]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.00.24:176][336]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.00.24:213][336]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.00.24:214][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.00.24:217][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.00.24:225][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.00.24:245][336]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-11.00.24:246][336]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2025.03.19-11.00.24:246][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.03.19-11.00.24:248][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2025.03.19-11.00.24:256][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2025.03.19-11.00.24:287][337]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.03.19-11.00.36:884][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.19-11.00.37:758][864]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.00.37:774][864]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.00.37:774][864]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.00.37:782][864]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007371s)
+[2025.03.19-11.00.37:782][864]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007404s)
+[2025.03.19-11.00.37:802][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.19-11.00.37:806][864]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.00.37:807][864]LogPlayLevel: PIE: World Init took: (0.001526s)
+[2025.03.19-11.00.37:808][864]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.00.37:808][864]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.00.37:808][864]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.00.37:808][864]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.00.37:808][864]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.00.37:808][864]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.00.37:811][864]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.00.37:826][864]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.00.37:826][864]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.00.37:826][864]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.00.37:826][864]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.00.37:826][864]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2025.03.19-11.00.37:826][864]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2025.03.19-11.00.37:829][864]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2025.03.19-11.00.37:829][864]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2025.03.19-11.00.37:829][864]LogInit: FAudioDevice initialized with ID 35.
+[2025.03.19-11.00.37:829][864]LogAudio: Display: Audio Device (ID: 35) registered with world 'NightClub'.
+[2025.03.19-11.00.37:829][864]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2025.03.19-11.00.37:873][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.00.37:874][864]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.00.37:877][864]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.00.37
+[2025.03.19-11.00.37:877][864]LogWorld: Bringing up level for play took: 0.003525
+[2025.03.19-11.00.37:880][864]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.03.19-11.00.37:887][864]PIE: Server logged in
+[2025.03.19-11.00.37:888][864]PIE: Play in editor total start time 0,114 seconds.
+[2025.03.19-11.00.44:575][254]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.00.44:575][254]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.00.44:575][254]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.00.44:594][254]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.00.44:595][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.00.44:597][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.00.44:605][254]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.00.44:628][254]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2025.03.19-11.00.44:628][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.03.19-11.00.44:630][254]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2025.03.19-11.00.44:637][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.03.19-11.00.44:685][255]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.03.19-11.00.53:045][246]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.19-11.00.53:934][332]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.00.53:950][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.00.53:950][332]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.00.53:958][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007566s)
+[2025.03.19-11.00.53:958][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007599s)
+[2025.03.19-11.00.53:980][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.19-11.00.53:984][332]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.00.53:985][332]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2025.03.19-11.00.53:986][332]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.00.53:986][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.00.53:986][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.00.53:986][332]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.00.53:986][332]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.00.53:986][332]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.00.53:988][332]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.00.54:004][332]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.00.54:004][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.00.54:004][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.00.54:004][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.00.54:004][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2025.03.19-11.00.54:004][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2025.03.19-11.00.54:007][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2025.03.19-11.00.54:007][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2025.03.19-11.00.54:007][332]LogInit: FAudioDevice initialized with ID 36.
+[2025.03.19-11.00.54:007][332]LogAudio: Display: Audio Device (ID: 36) registered with world 'NightClub'.
+[2025.03.19-11.00.54:007][332]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2025.03.19-11.00.54:057][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.00.54:057][332]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.00.54:061][332]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.00.54
+[2025.03.19-11.00.54:061][332]LogWorld: Bringing up level for play took: 0.003507
+[2025.03.19-11.00.54:064][332]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2025.03.19-11.00.54:071][332]PIE: Server logged in
+[2025.03.19-11.00.54:072][332]PIE: Play in editor total start time 0,122 seconds.
+[2025.03.19-11.00.56:615][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.00.56:615][467]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.00.56:615][467]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.00.56:644][467]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.00.56:645][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.00.56:648][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.00.56:656][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.00.56:678][467]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-11.00.56:678][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2025.03.19-11.00.56:678][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.03.19-11.00.56:680][467]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2025.03.19-11.00.56:688][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.19-11.00.56:735][468]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2025.03.19-11.01.09:397][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.19-11.01.10:083][  4]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.01.10:099][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.01.10:099][  4]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.01.10:106][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007557s)
+[2025.03.19-11.01.10:107][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007593s)
+[2025.03.19-11.01.10:128][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.19-11.01.10:132][  4]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.01.10:133][  4]LogPlayLevel: PIE: World Init took: (0.001563s)
+[2025.03.19-11.01.10:134][  4]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.01.10:134][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.01.10:134][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.01.10:134][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.01.10:134][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.01.10:134][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.01.10:136][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.01.10:151][  4]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.01.10:152][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.01.10:152][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.01.10:152][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.01.10:152][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2025.03.19-11.01.10:152][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2025.03.19-11.01.10:155][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2025.03.19-11.01.10:155][  4]LogInit: FAudioDevice initialized with ID 37.
+[2025.03.19-11.01.10:155][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2025.03.19-11.01.10:155][  4]LogAudio: Display: Audio Device (ID: 37) registered with world 'NightClub'.
+[2025.03.19-11.01.10:155][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2025.03.19-11.01.10:190][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.01.10:190][  4]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.01.10:195][  4]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.01.10
+[2025.03.19-11.01.10:195][  4]LogWorld: Bringing up level for play took: 0.003544
+[2025.03.19-11.01.10:197][  4]LogOnline: OSS: Created online subsystem instance for: :Context_47
+[2025.03.19-11.01.10:205][  4]PIE: Server logged in
+[2025.03.19-11.01.10:206][  4]PIE: Play in editor total start time 0,107 seconds.
+[2025.03.19-11.01.12:445][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.01.12:445][122]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.01.12:445][122]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.01.12:475][122]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.01.12:476][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.01.12:478][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.01.12:486][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.01.12:506][122]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2025.03.19-11.01.12:507][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.03.19-11.01.12:508][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2025.03.19-11.01.12:516][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.03.19-11.01.12:547][123]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2025.03.19-11.01.18:417][802]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.01.18:433][802]LogPlayLevel: [PlayLevel] Compiling BP_HUD before play...
+[2025.03.19-11.01.18:509][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.03.19-11.01.18:513][802]LogPlayLevel: PlayLevel: Blueprint regeneration took 80 ms (1 blueprints)
+[2025.03.19-11.01.18:513][802]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.01.18:521][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007421s)
+[2025.03.19-11.01.18:521][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007453s)
+[2025.03.19-11.01.18:543][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.19-11.01.18:544][802]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.01.18:545][802]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2025.03.19-11.01.18:546][802]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2025.03.19-11.01.18:546][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.01.18:546][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.01.18:546][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.01.18:546][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.01.18:546][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.01.18:547][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.01.18:547][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.01.18:547][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.01.18:547][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.01.18:547][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.01.18:547][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.01.18:549][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.01.18:564][802]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.01.18:564][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.01.18:564][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.01.18:564][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.01.18:564][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2025.03.19-11.01.18:564][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2025.03.19-11.01.18:567][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2025.03.19-11.01.18:567][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2025.03.19-11.01.18:567][802]LogInit: FAudioDevice initialized with ID 38.
+[2025.03.19-11.01.18:567][802]LogAudio: Display: Audio Device (ID: 38) registered with world 'NightClub'.
+[2025.03.19-11.01.18:567][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2025.03.19-11.01.18:625][802]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.01.18:625][802]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.01.18:629][802]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.01.18
+[2025.03.19-11.01.18:629][802]LogWorld: Bringing up level for play took: 0.003917
+[2025.03.19-11.01.18:631][802]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2025.03.19-11.01.18:638][802]PIE: Server logged in
+[2025.03.19-11.01.18:638][802]PIE: Play in editor total start time 0,205 seconds.
+[2025.03.19-11.01.23:486][ 73]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:502][ 74]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:519][ 75]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:534][ 76]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:550][ 77]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:566][ 78]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:588][ 79]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:604][ 80]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:616][ 81]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:630][ 82]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:652][ 83]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:667][ 84]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:683][ 85]LogBlueprintUserMessages: [UI_Health_C_0] TANK
+[2025.03.19-11.01.23:809][ 93]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:826][ 94]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:842][ 95]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:863][ 96]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:878][ 97]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:894][ 98]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:911][ 99]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:926][100]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:943][101]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.23:960][102]LogBlueprintUserMessages: [UI_Health_C_0] DJ
+[2025.03.19-11.01.31:175][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.01.31:175][537]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.01.31:176][537]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.01.31:217][537]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.01.31:218][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.01.31:221][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.01.31:229][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.01.31:252][537]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2025.03.19-11.01.31:252][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.03.19-11.01.31:254][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2025.03.19-11.01.31:262][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.19-11.01.31:302][538]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2025.03.19-11.01.44:401][994]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.01.44:417][994]LogPlayLevel: [PlayLevel] Compiling BP_HUD before play...
+[2025.03.19-11.01.44:493][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.19-11.01.44:495][994]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2025.03.19-11.01.44:496][994]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.01.44:503][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007467s)
+[2025.03.19-11.01.44:503][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007498s)
+[2025.03.19-11.01.44:523][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.19-11.01.44:525][994]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.01.44:526][994]LogPlayLevel: PIE: World Init took: (0.001566s)
+[2025.03.19-11.01.44:527][994]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.01.44:527][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.01.44:527][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.01.44:527][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.01.44:527][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.01.44:527][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.01.44:530][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.01.44:545][994]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.01.44:545][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.01.44:545][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.01.44:545][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.01.44:545][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=39
+[2025.03.19-11.01.44:545][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=39
+[2025.03.19-11.01.44:548][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=39
+[2025.03.19-11.01.44:548][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=39
+[2025.03.19-11.01.44:548][994]LogInit: FAudioDevice initialized with ID 39.
+[2025.03.19-11.01.44:548][994]LogAudio: Display: Audio Device (ID: 39) registered with world 'NightClub'.
+[2025.03.19-11.01.44:548][994]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 39
+[2025.03.19-11.01.44:590][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.01.44:590][994]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.01.44:593][994]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.01.44
+[2025.03.19-11.01.44:594][994]LogWorld: Bringing up level for play took: 0.003449
+[2025.03.19-11.01.44:596][994]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2025.03.19-11.01.44:602][994]PIE: Server logged in
+[2025.03.19-11.01.44:603][994]PIE: Play in editor total start time 0,187 seconds.
+[2025.03.19-11.01.50:925][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.01.50:925][358]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.01.50:926][358]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.01.50:968][358]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.01.50:969][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.01.50:972][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.01.50:979][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.01.51:000][358]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 39
+[2025.03.19-11.01.51:000][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.03.19-11.01.51:002][358]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=39
+[2025.03.19-11.01.51:009][358]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.19-11.01.51:041][359]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2025.03.19-11.02.05:390][968]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/INPUT/InputActions/IA_pause.IA_pause
+[2025.03.19-11.02.13:997][880]LogSlate: Window 'IA_pause' being destroyed
+[2025.03.19-11.02.26:789][368]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelEditor.MVVMK2Node_LoadSoftTexture has parent /Script/ModelViewViewModelEditor.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.19-11.02.26:789][368]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelEditor.MVVMK2Node_LoadSoftMaterial has parent /Script/ModelViewViewModelEditor.MVVMK2Node_LoadSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.19-11.02.26:789][368]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelEditor.MVVMK2Node_MakeBrushFromSoftTexture has parent /Script/ModelViewViewModelEditor.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.19-11.02.26:789][368]LogEditorClassViewer: Warning: Class /Script/ModelViewViewModelEditor.MVVMK2Node_MakeBrushFromSoftMaterial has parent /Script/ModelViewViewModelEditor.MVVMK2Node_MakeBrushFromSoftResource, but this parent is not found. The Class will not be shown in ClassViewer.
+[2025.03.19-11.02.34:668][245]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.02.34:723][245]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/INPUT/MC_PlayerInput] ([1] browsable assets)...
+[2025.03.19-11.02.34:723][245]OBJ SavePackage: Finished generating thumbnails for package [/Game/INPUT/MC_PlayerInput]
+[2025.03.19-11.02.34:723][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/INPUT/MC_PlayerInput" FILE="../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/INPUT/MC_PlayerInput.uasset" SILENT=true
+[2025.03.19-11.02.34:726][245]LogSavePackage: Moving output files for package: /Game/INPUT/MC_PlayerInput
+[2025.03.19-11.02.34:727][245]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/MC_PlayerInput5642D5F743F4910ABEB59993ABCB1036.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/INPUT/MC_PlayerInput.uasset'
+[2025.03.19-11.02.34:735][245]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.353 ms (total: 681.841 ms)
+[2025.03.19-11.02.34:787][245]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.02.34:787][245]LogContentValidation: Enabled validators:
+[2025.03.19-11.02.34:787][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.02.34:787][245]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.02.34:787][245]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.02.34:787][245]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.02.34:787][245]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.02.34:788][245]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.02.34:788][245]AssetCheck: /Game/INPUT/MC_PlayerInput Validating asset
+[2025.03.19-11.02.35:956][328]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.02.35:972][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.02.35:973][328]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.02.35:980][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007518s)
+[2025.03.19-11.02.35:980][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007550s)
+[2025.03.19-11.02.36:023][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.03.19-11.02.36:025][328]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.02.36:026][328]LogPlayLevel: PIE: World Init took: (0.001716s)
+[2025.03.19-11.02.36:027][328]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.02.36:027][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.02.36:027][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.02.36:027][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.02.36:027][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.02.36:027][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.02.36:030][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.02.36:045][328]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.02.36:045][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.02.36:045][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.02.36:045][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.02.36:046][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=40
+[2025.03.19-11.02.36:046][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=40
+[2025.03.19-11.02.36:048][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=40
+[2025.03.19-11.02.36:048][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=40
+[2025.03.19-11.02.36:048][328]LogInit: FAudioDevice initialized with ID 40.
+[2025.03.19-11.02.36:048][328]LogAudio: Display: Audio Device (ID: 40) registered with world 'NightClub'.
+[2025.03.19-11.02.36:048][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 40
+[2025.03.19-11.02.36:103][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.02.36:104][328]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.02.36:107][328]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.02.36
+[2025.03.19-11.02.36:108][328]LogWorld: Bringing up level for play took: 0.003868
+[2025.03.19-11.02.36:110][328]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2025.03.19-11.02.36:123][328]PIE: Server logged in
+[2025.03.19-11.02.36:124][328]PIE: Play in editor total start time 0,152 seconds.
+[2025.03.19-11.02.41:934][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.02.41:934][691]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.02.41:934][691]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.02.41:949][691]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.02.41:950][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.02.41:953][691]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.02.41:961][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.02.41:983][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-11.02.41:984][691]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 40
+[2025.03.19-11.02.41:984][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.03.19-11.02.41:986][691]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=40
+[2025.03.19-11.02.41:993][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.03.19-11.02.42:049][692]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2025.03.19-11.03.02:267][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.03.02:321][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/INPUT/MC_PlayerInput] ([1] browsable assets)...
+[2025.03.19-11.03.02:321][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/INPUT/MC_PlayerInput]
+[2025.03.19-11.03.02:321][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/INPUT/MC_PlayerInput" FILE="../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/INPUT/MC_PlayerInput.uasset" SILENT=true
+[2025.03.19-11.03.02:324][ 22]LogSavePackage: Moving output files for package: /Game/INPUT/MC_PlayerInput
+[2025.03.19-11.03.02:325][ 22]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/MC_PlayerInputB602587346B8127D1CC01EA9B6B2B307.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/INPUT/MC_PlayerInput.uasset'
+[2025.03.19-11.03.02:330][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.314 ms (total: 745.155 ms)
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: Enabled validators:
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.03.02:371][ 22]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.03.02:371][ 22]AssetCheck: /Game/INPUT/MC_PlayerInput Validating asset
+[2025.03.19-11.03.03:505][114]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.03.03:521][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.03.03:521][114]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.03.03:528][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007552s)
+[2025.03.19-11.03.03:529][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007581s)
+[2025.03.19-11.03.03:551][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.19-11.03.03:552][114]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.03.03:554][114]LogPlayLevel: PIE: World Init took: (0.001605s)
+[2025.03.19-11.03.03:555][114]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.03.03:555][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.03.03:555][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.03.03:555][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.03.03:555][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.03.03:555][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.03.03:557][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.03.03:573][114]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.03.03:573][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.03.03:573][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.03.03:573][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.03.03:573][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2025.03.19-11.03.03:573][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2025.03.19-11.03.03:576][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2025.03.19-11.03.03:576][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2025.03.19-11.03.03:576][114]LogInit: FAudioDevice initialized with ID 41.
+[2025.03.19-11.03.03:576][114]LogAudio: Display: Audio Device (ID: 41) registered with world 'NightClub'.
+[2025.03.19-11.03.03:576][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2025.03.19-11.03.03:621][114]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.03.03:622][114]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.03.03:625][114]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.03.03
+[2025.03.19-11.03.03:625][114]LogWorld: Bringing up level for play took: 0.003576
+[2025.03.19-11.03.03:628][114]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2025.03.19-11.03.03:635][114]PIE: Server logged in
+[2025.03.19-11.03.03:637][114]PIE: Play in editor total start time 0,116 seconds.
+[2025.03.19-11.03.07:145][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.03.07:145][331]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.03.07:145][331]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.03.07:175][331]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.03.07:176][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.03.07:179][331]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.03.07:187][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.03.07:209][331]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2025.03.19-11.03.07:209][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.03.19-11.03.07:211][331]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41
+[2025.03.19-11.03.07:218][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.03.19-11.03.07:269][332]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2025.03.19-11.03.32:643][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.19-11.03.33:234][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.03.33:288][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/BP_HUD] ([2] browsable assets)...
+[2025.03.19-11.03.33:288][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/BP_HUD]
+[2025.03.19-11.03.33:288][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINT/Yasser_UI/BP_HUD" FILE="../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/BP_HUD.uasset" SILENT=true
+[2025.03.19-11.03.33:302][995]LogSavePackage: Moving output files for package: /Game/BLUEPRINT/Yasser_UI/BP_HUD
+[2025.03.19-11.03.33:303][995]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/BP_HUDC05A13584C367627728039A44BE9173C.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/BP_HUD.uasset'
+[2025.03.19-11.03.33:309][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.733 ms (total: 820.888 ms)
+[2025.03.19-11.03.33:384][995]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.03.33:384][995]LogContentValidation: Enabled validators:
+[2025.03.19-11.03.33:384][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.03.33:384][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.03.33:384][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.03.33:385][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.03.33:385][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.03.33:385][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.03.33:385][995]AssetCheck: /Game/BLUEPRINT/Yasser_UI/BP_HUD Validating asset
+[2025.03.19-11.03.34:049][ 64]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.03.34:064][ 64]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.03.34:064][ 64]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.03.34:071][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007500s)
+[2025.03.19-11.03.34:071][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007533s)
+[2025.03.19-11.03.34:094][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.03.19-11.03.34:097][ 64]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.03.34:099][ 64]LogPlayLevel: PIE: World Init took: (0.001595s)
+[2025.03.19-11.03.34:099][ 64]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2025.03.19-11.03.34:099][ 64]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.03.34:099][ 64]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.03.34:099][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.03.34:099][ 64]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.03.34:099][ 64]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.03.34:099][ 64]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.03.34:100][ 64]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.03.34:100][ 64]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.03.34:100][ 64]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.03.34:100][ 64]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.03.34:100][ 64]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.03.34:102][ 64]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.03.34:117][ 64]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.03.34:117][ 64]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.03.34:117][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.03.34:117][ 64]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.03.34:118][ 64]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2025.03.19-11.03.34:118][ 64]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2025.03.19-11.03.34:121][ 64]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2025.03.19-11.03.34:121][ 64]LogInit: FAudioDevice initialized with ID 42.
+[2025.03.19-11.03.34:121][ 64]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2025.03.19-11.03.34:121][ 64]LogAudio: Display: Audio Device (ID: 42) registered with world 'NightClub'.
+[2025.03.19-11.03.34:121][ 64]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2025.03.19-11.03.34:173][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.03.34:173][ 64]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.03.34:176][ 64]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.03.34
+[2025.03.19-11.03.34:177][ 64]LogWorld: Bringing up level for play took: 0.003390
+[2025.03.19-11.03.34:179][ 64]LogOnline: OSS: Created online subsystem instance for: :Context_52
+[2025.03.19-11.03.34:187][ 64]PIE: Server logged in
+[2025.03.19-11.03.34:188][ 64]PIE: Play in editor total start time 0,124 seconds.
+[2025.03.19-11.03.36:739][204]Cmd: PreviousDebugTarget
+[2025.03.19-11.03.38:344][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.03.38:344][300]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.03.38:345][300]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.03.38:383][300]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.03.38:384][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.03.38:386][300]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.03.38:394][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.03.38:416][300]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2025.03.19-11.03.38:416][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.03.19-11.03.38:418][300]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2025.03.19-11.03.38:424][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.03.19-11.03.38:455][301]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2025.03.19-11.03.50:332][721]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6193.921875
+[2025.03.19-11.03.50:457][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.03.50:457][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6194.038574, Update Interval: 357.597595
+[2025.03.19-11.04.23:851][581]LogBlueprint: Warning: [AssetLog] C:\Users\LPMJV\Documents\Unreal Projects\RogueDance\RogueDance\Content\BLUEPRINT\Yasser_UI\Widgets_BP\In_Game\UI_Health.uasset: [Compiler] Could not find a variable named "Is paused" in '/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health_C'.
+Make sure '/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health_C' has been compiled for  Set Is paused
+[2025.03.19-11.04.23:854][581]LogBlueprint: Error: [AssetLog] C:\Users\LPMJV\Documents\Unreal Projects\RogueDance\RogueDance\Content\BLUEPRINT\Yasser_UI\Widgets_BP\In_Game\UI_Health.uasset: [Compiler] The property associated with  Is Paused  could not be found in '/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health_C'
+[2025.03.19-11.04.23:905][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.03.19-11.04.39:079][147]LogSlate: Window 'Delete Variable' being destroyed
+[2025.03.19-11.04.47:140][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.19-11.04.48:758][221]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.04.48:773][221]LogPlayLevel: [PlayLevel] Compiling BP_HUD before play...
+[2025.03.19-11.04.48:833][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.19-11.04.48:837][221]LogPlayLevel: PlayLevel: Blueprint regeneration took 64 ms (1 blueprints)
+[2025.03.19-11.04.48:837][221]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.04.48:845][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007523s)
+[2025.03.19-11.04.48:845][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007553s)
+[2025.03.19-11.04.48:867][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.19-11.04.48:868][221]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.04.48:870][221]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2025.03.19-11.04.48:871][221]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.04.48:871][221]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.04.48:871][221]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.04.48:871][221]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.04.48:871][221]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.04.48:871][221]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.04.48:873][221]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.04.48:888][221]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.04.48:889][221]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.04.48:889][221]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.04.48:889][221]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.04.48:889][221]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2025.03.19-11.04.48:889][221]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2025.03.19-11.04.48:891][221]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2025.03.19-11.04.48:891][221]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2025.03.19-11.04.48:891][221]LogInit: FAudioDevice initialized with ID 43.
+[2025.03.19-11.04.48:891][221]LogAudio: Display: Audio Device (ID: 43) registered with world 'NightClub'.
+[2025.03.19-11.04.48:892][221]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2025.03.19-11.04.48:938][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.04.48:938][221]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.04.48:942][221]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.04.48
+[2025.03.19-11.04.48:942][221]LogWorld: Bringing up level for play took: 0.003561
+[2025.03.19-11.04.48:945][221]LogOnline: OSS: Created online subsystem instance for: :Context_53
+[2025.03.19-11.04.48:954][221]PIE: Server logged in
+[2025.03.19-11.04.48:955][221]PIE: Play in editor total start time 0,183 seconds.
+[2025.03.19-11.04.54:096][515]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:104][515]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.19-11.04.54:104][515]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.19-11.04.54:104][515]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.19-11.04.54:116][516]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:132][517]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:148][518]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:165][519]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:884][559]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:903][560]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:926][561]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:947][562]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:964][563]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.54:981][564]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:003][565]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:023][566]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:412][586]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:433][587]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:453][588]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:475][589]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:497][590]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:521][591]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:544][592]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:721][601]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:741][602]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:761][603]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:782][604]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:804][605]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:826][606]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:848][607]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:869][608]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.55:900][609]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:220][623]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:501][635]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:522][636]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:546][637]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:569][638]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:592][639]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:614][640]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:837][649]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:861][650]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:885][651]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.56:909][652]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:060][658]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:090][659]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:115][660]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:268][666]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:293][667]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:319][668]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:482][674]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:508][675]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:535][676]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:677][681]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:889][689]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:924][690]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.57:952][691]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.58:121][697]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.58:148][698]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.58:309][704]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.58:511][711]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.58:539][712]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.58:684][717]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.04.59:164][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.04.59:164][727]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.04.59:165][727]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.04.59:169][727]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.04.59:170][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.04.59:173][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.04.59:184][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.04.59:209][727]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2025.03.19-11.04.59:209][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.03.19-11.04.59:211][727]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2025.03.19-11.04.59:237][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.03.19-11.04.59:272][728]LogPlayLevel: Display: Destroying online subsystem :Context_53
+[2025.03.19-11.05.01:467][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.05.01:522][977]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health] ([2] browsable assets)...
+[2025.03.19-11.05.01:524][977]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health]
+[2025.03.19-11.05.01:524][977]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health]
+[2025.03.19-11.05.01:543][977]LogSavePackage: Moving output files for package: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health
+[2025.03.19-11.05.01:544][977]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/UI_Health3670E51C453858E19A0E45A8A4858333.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.uasset'
+[2025.03.19-11.05.01:552][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.498 ms (total: 905.387 ms)
+[2025.03.19-11.05.01:604][977]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.05.01:604][977]LogContentValidation: Enabled validators:
+[2025.03.19-11.05.01:604][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.05.01:604][977]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.05.01:604][977]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.05.01:604][977]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.05.01:604][977]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.05.01:604][977]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.05.01:605][977]AssetCheck: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health Validating asset
+[2025.03.19-11.05.15:351][584]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.05.15:405][584]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/BP_HUD] ([2] browsable assets)...
+[2025.03.19-11.05.15:405][584]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/BP_HUD]
+[2025.03.19-11.05.15:405][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINT/Yasser_UI/BP_HUD" FILE="../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/BP_HUD.uasset" SILENT=true
+[2025.03.19-11.05.15:414][584]LogSavePackage: Moving output files for package: /Game/BLUEPRINT/Yasser_UI/BP_HUD
+[2025.03.19-11.05.15:415][584]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/BP_HUD571A8EAD419F83CD417201A412D1093E.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/BP_HUD.uasset'
+[2025.03.19-11.05.15:422][584]LogFileHelpers: InternalPromptForCheckoutAndSave took 71.026 ms (total: 976.414 ms)
+[2025.03.19-11.05.15:454][584]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.05.15:454][584]LogContentValidation: Enabled validators:
+[2025.03.19-11.05.15:454][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.05.15:454][584]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.05.15:454][584]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.05.15:454][584]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.05.15:454][584]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.05.15:454][584]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.05.15:454][584]AssetCheck: /Game/BLUEPRINT/Yasser_UI/BP_HUD Validating asset
+[2025.03.19-11.05.23:438][484]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.05.23:453][484]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.05.23:453][484]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.05.23:461][484]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007497s)
+[2025.03.19-11.05.23:461][484]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007533s)
+[2025.03.19-11.05.23:480][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.03.19-11.05.23:483][484]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.05.23:485][484]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2025.03.19-11.05.23:486][484]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.05.23:486][484]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.05.23:486][484]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.05.23:486][484]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.05.23:486][484]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.05.23:486][484]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.05.23:488][484]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.05.23:503][484]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.05.23:503][484]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.05.23:503][484]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.05.23:504][484]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.05.23:504][484]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2025.03.19-11.05.23:504][484]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2025.03.19-11.05.23:506][484]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2025.03.19-11.05.23:506][484]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2025.03.19-11.05.23:506][484]LogInit: FAudioDevice initialized with ID 44.
+[2025.03.19-11.05.23:506][484]LogAudio: Display: Audio Device (ID: 44) registered with world 'NightClub'.
+[2025.03.19-11.05.23:506][484]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2025.03.19-11.05.23:556][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.05.23:556][484]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.05.23:560][484]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.05.23
+[2025.03.19-11.05.23:560][484]LogWorld: Bringing up level for play took: 0.003608
+[2025.03.19-11.05.23:562][484]LogOnline: OSS: Created online subsystem instance for: :Context_54
+[2025.03.19-11.05.23:570][484]PIE: Server logged in
+[2025.03.19-11.05.23:571][484]PIE: Play in editor total start time 0,119 seconds.
+[2025.03.19-11.05.24:918][545]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.05.24:924][545]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.19-11.05.24:924][545]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.19-11.05.24:924][545]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.19-11.05.24:939][546]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.05.27:799][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.05.27:799][712]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.05.27:799][712]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.05.27:827][712]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.05.27:828][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.05.27:831][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.05.27:839][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.05.27:861][712]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2025.03.19-11.05.27:861][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.03.19-11.05.27:862][712]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2025.03.19-11.05.27:870][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.19-11.05.27:903][713]LogPlayLevel: Display: Destroying online subsystem :Context_54
+[2025.03.19-11.05.34:654][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.03.19-11.05.35:357][493]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.05.35:373][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.05.35:373][493]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.05.35:381][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007513s)
+[2025.03.19-11.05.35:381][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007546s)
+[2025.03.19-11.05.35:402][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.19-11.05.35:407][493]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.05.35:408][493]LogPlayLevel: PIE: World Init took: (0.001561s)
+[2025.03.19-11.05.35:409][493]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.05.35:409][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.05.35:409][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.05.35:409][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.05.35:409][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.05.35:409][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.05.35:411][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.05.35:426][493]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.05.35:427][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.05.35:427][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.05.35:427][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.05.35:427][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.03.19-11.05.35:427][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.03.19-11.05.35:430][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.03.19-11.05.35:430][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.03.19-11.05.35:430][493]LogInit: FAudioDevice initialized with ID 45.
+[2025.03.19-11.05.35:430][493]LogAudio: Display: Audio Device (ID: 45) registered with world 'NightClub'.
+[2025.03.19-11.05.35:430][493]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.03.19-11.05.35:488][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.05.35:488][493]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.05.35:492][493]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.05.35
+[2025.03.19-11.05.35:492][493]LogWorld: Bringing up level for play took: 0.003782
+[2025.03.19-11.05.35:495][493]LogOnline: OSS: Created online subsystem instance for: :Context_55
+[2025.03.19-11.05.35:503][493]PIE: Server logged in
+[2025.03.19-11.05.35:504][493]PIE: Play in editor total start time 0,132 seconds.
+[2025.03.19-11.05.36:780][552]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.05.36:786][552]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.19-11.05.36:787][552]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.19-11.05.36:787][552]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.19-11.05.40:276][758]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.05.40:276][758]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.05.40:276][758]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.05.40:315][758]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.05.40:316][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.05.40:318][758]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.05.40:326][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.05.40:350][758]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-11.05.40:350][758]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.03.19-11.05.40:350][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.03.19-11.05.40:352][758]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.03.19-11.05.40:359][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.03.19-11.05.40:388][759]LogPlayLevel: Display: Destroying online subsystem :Context_55
+[2025.03.19-11.05.51:521][ 38]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.05.51:537][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.05.51:537][ 38]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.05.51:547][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009638s)
+[2025.03.19-11.05.51:547][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.009677s)
+[2025.03.19-11.05.51:572][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.03.19-11.05.51:574][ 38]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.05.51:576][ 38]LogPlayLevel: PIE: World Init took: (0.002327s)
+[2025.03.19-11.05.51:577][ 38]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.05.51:577][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.05.51:577][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.05.51:577][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.05.51:577][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.05.51:578][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.05.51:580][ 38]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.05.51:598][ 38]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.05.51:598][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.05.51:598][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.05.51:598][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.05.51:599][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.03.19-11.05.51:599][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.03.19-11.05.51:602][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.03.19-11.05.51:602][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.03.19-11.05.51:602][ 38]LogInit: FAudioDevice initialized with ID 46.
+[2025.03.19-11.05.51:602][ 38]LogAudio: Display: Audio Device (ID: 46) registered with world 'NightClub'.
+[2025.03.19-11.05.51:602][ 38]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.03.19-11.05.51:639][ 38]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.05.51:639][ 38]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.05.51:643][ 38]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.05.51
+[2025.03.19-11.05.51:643][ 38]LogWorld: Bringing up level for play took: 0.003516
+[2025.03.19-11.05.51:646][ 38]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.03.19-11.05.51:653][ 38]PIE: Server logged in
+[2025.03.19-11.05.51:655][ 38]PIE: Play in editor total start time 0,118 seconds.
+[2025.03.19-11.05.54:247][173]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.05.54:254][173]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.19-11.05.54:254][173]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.19-11.05.54:254][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.19-11.06.16:236][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.06.16:236][477]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.06.16:237][477]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.06.16:265][477]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.06.16:266][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.06.16:268][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.06.16:276][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.06.16:300][477]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.03.19-11.06.16:300][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.03.19-11.06.16:302][477]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.03.19-11.06.16:310][477]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.03.19-11.06.16:345][478]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.03.19-11.06.41:344][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.03.19-11.06.41:345][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.024
+[2025.03.19-11.06.41:346][119]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health] ([2] browsable assets)...
+[2025.03.19-11.06.41:348][119]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health]
+[2025.03.19-11.06.41:348][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health]
+[2025.03.19-11.06.41:368][119]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health_Auto7
+[2025.03.19-11.06.41:368][119]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/UI_Health_Auto74668E0C342B9765282D6DA9F424AD34F.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health_Auto7.uasset'
+[2025.03.19-11.06.41:369][119]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.03.19-11.07.12:802][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.07.12:854][566]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health] ([2] browsable assets)...
+[2025.03.19-11.07.12:854][566]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health]
+[2025.03.19-11.07.12:873][566]LogSavePackage: Moving output files for package: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health
+[2025.03.19-11.07.12:873][566]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/UI_HealthA38108584D162F230AEBA09C80CBDA44.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.uasset'
+[2025.03.19-11.07.12:881][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 79.130 ms (total: 1.05 sec)
+[2025.03.19-11.07.12:949][566]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.07.12:949][566]LogContentValidation: Enabled validators:
+[2025.03.19-11.07.12:949][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.07.12:949][566]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.07.12:949][566]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.07.12:949][566]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.07.12:949][566]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.07.12:949][566]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.07.12:950][566]AssetCheck: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health Validating asset
+[2025.03.19-11.07.54:613][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2025.03.19-11.07.55:167][126]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.19-11.07.55:220][126]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health] ([2] browsable assets)...
+[2025.03.19-11.07.55:222][126]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health]
+[2025.03.19-11.07.55:222][126]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health]
+[2025.03.19-11.07.55:242][126]LogSavePackage: Moving output files for package: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health
+[2025.03.19-11.07.55:242][126]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/UI_Health95AF85EF4EA9D596971D0D8A243C3B8B.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Content/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.uasset'
+[2025.03.19-11.07.55:250][126]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.352 ms (total: 1.13 sec)
+[2025.03.19-11.07.55:302][126]LogContentValidation: Display: Starting to validate 1 assets
+[2025.03.19-11.07.55:302][126]LogContentValidation: Enabled validators:
+[2025.03.19-11.07.55:302][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.03.19-11.07.55:302][126]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.03.19-11.07.55:302][126]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.03.19-11.07.55:302][126]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.03.19-11.07.55:302][126]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.03.19-11.07.55:302][126]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.03.19-11.07.55:303][126]AssetCheck: /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health Validating asset
+[2025.03.19-11.07.56:107][217]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.07.56:123][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.07.56:123][217]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.07.56:131][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007421s)
+[2025.03.19-11.07.56:131][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007453s)
+[2025.03.19-11.07.56:153][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.03.19-11.07.56:156][217]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.07.56:158][217]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2025.03.19-11.07.56:159][217]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.07.56:159][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.07.56:159][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.07.56:159][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.07.56:159][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.07.56:159][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.07.56:162][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.07.56:177][217]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.07.56:177][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.07.56:177][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.07.56:177][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.07.56:178][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.03.19-11.07.56:178][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.03.19-11.07.56:180][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.03.19-11.07.56:180][217]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.03.19-11.07.56:180][217]LogInit: FAudioDevice initialized with ID 47.
+[2025.03.19-11.07.56:180][217]LogAudio: Display: Audio Device (ID: 47) registered with world 'NightClub'.
+[2025.03.19-11.07.56:180][217]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.03.19-11.07.56:238][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.07.56:238][217]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.07.56:241][217]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.07.56
+[2025.03.19-11.07.56:241][217]LogWorld: Bringing up level for play took: 0.003397
+[2025.03.19-11.07.56:244][217]LogOnline: OSS: Created online subsystem instance for: :Context_57
+[2025.03.19-11.07.56:252][217]PIE: Server logged in
+[2025.03.19-11.07.56:253][217]PIE: Play in editor total start time 0,13 seconds.
+[2025.03.19-11.07.59:523][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.07.59:523][398]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.07.59:524][398]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.07.59:559][398]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.07.59:560][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.07.59:563][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.07.59:571][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.07.59:594][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-11.07.59:594][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.03.19-11.07.59:594][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.03.19-11.07.59:596][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.03.19-11.07.59:604][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.03.19-11.07.59:636][399]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2025.03.19-11.10.41:805][432]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6605.414551
+[2025.03.19-11.10.41:929][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.10.41:929][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6605.526367, Update Interval: 349.668884
+[2025.03.19-11.11.44:918][546]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2025.03.19-11.11.44:936][546]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.19-11.11.44:936][546]LogPlayLevel: Creating play world package: /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.11.44:944][546]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007575s)
+[2025.03.19-11.11.44:944][546]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LEVEL/NightClub.NightClub to /Game/LEVEL/UEDPIE_0_NightClub.NightClub (0.007612s)
+[2025.03.19-11.11.44:989][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.03.19-11.11.44:992][546]LogChaosDD: Creating Chaos Debug Draw Scene for world NightClub
+[2025.03.19-11.11.44:993][546]LogPlayLevel: PIE: World Init took: (0.001614s)
+[2025.03.19-11.11.44:994][546]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.19-11.11.44:994][546]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.03.19-11.11.44:994][546]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.19-11.11.44:994][546]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.19-11.11.44:994][546]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.19-11.11.44:994][546]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.19-11.11.44:997][546]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.19-11.11.45:013][546]LogAudioMixer: Display: Using Audio Hardware Device C24F390 (NVIDIA High Definition Audio)
+[2025.03.19-11.11.45:013][546]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.19-11.11.45:013][546]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.19-11.11.45:013][546]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.19-11.11.45:014][546]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.03.19-11.11.45:014][546]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.03.19-11.11.45:016][546]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.03.19-11.11.45:016][546]LogInit: FAudioDevice initialized with ID 48.
+[2025.03.19-11.11.45:016][546]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.03.19-11.11.45:016][546]LogAudio: Display: Audio Device (ID: 48) registered with world 'NightClub'.
+[2025.03.19-11.11.45:016][546]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.03.19-11.11.45:070][546]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.11.45:070][546]LogLoad: Game class is 'BP_GameModeRD_C'
+[2025.03.19-11.11.45:074][546]LogWorld: Bringing World /Game/LEVEL/UEDPIE_0_NightClub.NightClub up for play (max tick rate 0) at 2025.03.19-12.11.45
+[2025.03.19-11.11.45:074][546]LogWorld: Bringing up level for play took: 0.003635
+[2025.03.19-11.11.45:076][546]LogOnline: OSS: Created online subsystem instance for: :Context_58
+[2025.03.19-11.11.45:085][546]PIE: Server logged in
+[2025.03.19-11.11.45:086][546]PIE: Play in editor total start time 0,149 seconds.
+[2025.03.19-11.11.48:281][743]LogBlueprintUserMessages: [UI_Health_C_0] Hello
+[2025.03.19-11.11.48:287][743]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.19-11.11.48:287][743]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.19-11.11.48:287][743]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.03.19-11.12.08:655][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.19-11.12.08:655][ 29]LogWorld: BeginTearingDown for /Game/LEVEL/UEDPIE_0_NightClub
+[2025.03.19-11.12.08:655][ 29]LogSlate: Window 'RogueDance Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2025.03.19-11.12.08:679][ 29]LogWorld: UWorld::CleanupWorld for NightClub, bSessionEnded=true, bCleanupResources=true
+[2025.03.19-11.12.08:680][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.12.08:683][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.19-11.12.08:691][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.19-11.12.08:714][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.19-11.12.08:714][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.03.19-11.12.08:714][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.03.19-11.12.08:716][ 29]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.03.19-11.12.08:724][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.03.19-11.12.08:774][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2025.03.19-11.17.08:640][951]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.03.19-11.17.08:643][951]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.074
+[2025.03.19-11.17.08:643][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/INPUT/MC_PlayerInput] ([1] browsable assets)...
+[2025.03.19-11.17.08:643][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/INPUT/MC_PlayerInput]
+[2025.03.19-11.17.08:646][951]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/INPUT/MC_PlayerInput_Auto8
+[2025.03.19-11.17.08:647][951]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/MC_PlayerInput_Auto8160E206B440607A5F463AE8C9693B50E.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Autosaves/Game/INPUT/MC_PlayerInput_Auto8.uasset'
+[2025.03.19-11.17.08:648][951]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health] ([2] browsable assets)...
+[2025.03.19-11.17.08:650][951]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health]
+[2025.03.19-11.17.08:650][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health]
+[2025.03.19-11.17.08:670][951]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health_Auto8
+[2025.03.19-11.17.08:670][951]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/UI_Health_Auto8C04C9E80479304F6D6DCD0A239525B3A.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health_Auto8.uasset'
+[2025.03.19-11.17.08:671][951]LogFileHelpers: Auto-saving content packages took 0.028
+[2025.03.19-11.17.28:614][183]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7012.201660
+[2025.03.19-11.17.28:735][197]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.17.28:735][197]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7012.313477, Update Interval: 314.333923
+[2025.03.19-11.19.03:508][918]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: 018...baa
+[2025.03.19-11.19.03:508][918]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.03.19-11.19.03:668][936]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 018...baa Access[Expires: 2025.03.19-13.19.03 Remaining: 7200.60] Refresh[Expires: 2025-09-15T09:20:43.237Z Remaining: 15544900.24] State: Valid
+[2025.03.19-11.22.21:217][305]LogDerivedDataCache: C:/Users/LPMJV/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.03.19-11.23.27:708][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7371.362305
+[2025.03.19-11.23.27:849][873]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.23.27:849][873]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7371.495117, Update Interval: 314.410828
+[2025.03.19-11.26.27:782][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.03.19-11.26.42:257][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.03.19-11.27.13:695][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2025.03.19-11.27.13:698][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.049
+[2025.03.19-11.27.13:698][441]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health] ([2] browsable assets)...
+[2025.03.19-11.27.13:701][441]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health.UI_Health]
+[2025.03.19-11.27.13:701][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health]
+[2025.03.19-11.27.13:721][441]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health_Auto9
+[2025.03.19-11.27.13:721][441]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/UI_Health_Auto990A7C443451CB4D7209C7292BE3218F8.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/In_Game/UI_Health_Auto9.uasset'
+[2025.03.19-11.27.13:722][441]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu] ([2] browsable assets)...
+[2025.03.19-11.27.13:740][441]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu.Pause_Menu]
+[2025.03.19-11.27.13:740][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu]
+[2025.03.19-11.27.13:794][441]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu_Auto9
+[2025.03.19-11.27.13:795][441]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Pause_Menu_Auto9522BE18C49CDD998417C3FBDE18C3174.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu_Auto9.uasset'
+[2025.03.19-11.27.13:796][441]LogFileHelpers: Auto-saving content packages took 0.098
+[2025.03.19-11.29.27:604][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7731.082031
+[2025.03.19-11.29.27:728][509]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.29.27:728][509]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7731.199219, Update Interval: 305.363312
+[2025.03.19-11.29.58:263][898]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.03.19-11.29.59:684][ 25]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.5/Engine/Content/UMG': No such file or directory
+[2025.03.19-11.30.44:445][522]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.19-11.31.21:427][941]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.19-11.35.27:825][669]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8091.302246
+[2025.03.19-11.35.27:945][683]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.35.27:945][683]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8091.413086, Update Interval: 321.248199
+[2025.03.19-11.37.13:795][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2025.03.19-11.37.13:797][153]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/LEVEL/NightClub' took 0.051
+[2025.03.19-11.37.13:798][153]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu] ([2] browsable assets)...
+[2025.03.19-11.37.13:810][153]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu.Pause_Menu]
+[2025.03.19-11.37.13:810][153]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu]
+[2025.03.19-11.37.13:864][153]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu_Auto0
+[2025.03.19-11.37.13:865][153]LogSavePackage: Moving '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Pause_Menu_Auto0D2946AD84D7BB41144A1F98B1F34F340.tmp' to '../../../../../../Users/LPMJV/Documents/Unreal Projects/RogueDance/RogueDance/Saved/Autosaves/Game/BLUEPRINT/Yasser_UI/Widgets_BP/Pause_Menu/Pause_Menu_Auto0.uasset'
+[2025.03.19-11.37.13:866][153]LogFileHelpers: Auto-saving content packages took 0.069
+[2025.03.19-11.41.16:847][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2025.03.19-11.41.41:774][929]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8463.847656
+[2025.03.19-11.41.41:900][944]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.19-11.41.41:900][944]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8463.963867, Update Interval: 331.401703
