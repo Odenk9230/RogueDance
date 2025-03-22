@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\LPMJV\\Documents\\Courgits\\RogueDance\\RogueDance\\Intermediate\\Source\\RogueDance.Build.cs",
+		"C:\\Users\\LPMJV\\Documents\\Courgits\\RogueDance\\RogueDance\\Intermediate\\Source\\RogueDance.Target.cs",
+		"C:\\Users\\LPMJV\\Documents\\Courgits\\RogueDance\\RogueDance\\Intermediate\\Source\\RogueDanceClient.Target.cs",
+		"C:\\Users\\LPMJV\\Documents\\Courgits\\RogueDance\\RogueDance\\Intermediate\\Source\\RogueDanceEditor.Target.cs",
+		"C:\\Users\\LPMJV\\Documents\\Courgits\\RogueDance\\RogueDance\\Intermediate\\Source\\RogueDanceServer.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
