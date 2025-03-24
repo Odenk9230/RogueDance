@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lpmjv\\documents\\courgits\\roguedance\\roguedance\\intermediate\\source\\roguedance.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lpmjv\\documents\\courgits\\roguedance\\roguedance\\intermediate\\build\\win64\\x64\\roguedance\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lpmjv\\documents\\courgits\\roguedance\\roguedance\\intermediate\\build\\win64\\x64\\unrealgame\\development\\roguedance\\definitions.roguedance.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
