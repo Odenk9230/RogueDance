@@ -1,5 +1,8 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.RogueDance.cpp.obj": [
+			"RogueDance.cpp.obj"
+		]
 	}
 }
