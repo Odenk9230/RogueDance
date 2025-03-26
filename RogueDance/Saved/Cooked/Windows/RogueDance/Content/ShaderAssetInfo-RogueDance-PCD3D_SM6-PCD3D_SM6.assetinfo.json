@@ -26,33 +26,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "19BC6C054FAF5124222C0DA5FCCE8E986C469745",
-			"Assets": [
-				"/Game/ART/Joanna/Material/BoomBoom"
-			]
-		},
-		{
 			"ShaderMapHash": "BB2DBE05A9227AFFCF5F7911686DF4258BBF9C0B",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "804DF906B04537BB751366971B4E04AEB9F6B51C",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Boom_Boom_interieur"
-			]
-		},
-		{
-			"ShaderMapHash": "7A89E00B6BAB3ABE6ED60EA899D7D66A3C33D63E",
-			"Assets": [
-				"/Game/ART/Joanna/Material/SOL"
-			]
-		},
-		{
-			"ShaderMapHash": "1220510C165A8879B52CAFA6D1D515720757ACA3",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/murs/Mur-WallBlankbis"
 			]
 		},
 		{
@@ -65,12 +41,6 @@
 			"ShaderMapHash": "3543D20F571BEC552E0CA3CB37EBE366E7044478",
 			"Assets": [
 				"/ControlRig/Controls/ControlRigXRayMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "2A3445127D1827F65DB9318F3DE886EF5754B450",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/murs/M_sol"
 			]
 		},
 		{
@@ -98,24 +68,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "75164C160058467051D6AC106A76B0A0697E81FE",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/M_Goutiere"
-			]
-		},
-		{
-			"ShaderMapHash": "CB912317606BB81A9BDB0811446FEF7ED79344CC",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbeSèche/MI_vdknafgha"
-			]
-		},
-		{
-			"ShaderMapHash": "22602917E2A953A4722676172E121FD294B2CC36",
-			"Assets": [
-				"/Game/ART/Joanna/Ajout_dernière_minute/ça_C_Good/Material_001"
-			]
-		},
-		{
 			"ShaderMapHash": "B7AA5B1BBDF568D143E429424B6D6FD74C325F29",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
@@ -128,27 +80,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B4323529CF6F7140B6E500DE00D0D8BC49F3DD27",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/M_can"
-			]
-		},
-		{
-			"ShaderMapHash": "E74A842969C0265F8247804746F6BA4487291696",
-			"Assets": [
-				"/Game/ART/Joanna/Skatepark/Material_016"
-			]
-		},
-		{
 			"ShaderMapHash": "CB23112AD2FF30AD89A73956DC9DA015444DD2F2",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
-			]
-		},
-		{
-			"ShaderMapHash": "9767322A1091E0F64F2FFA1AEF338BE24BBE9CD3",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Foliage"
 			]
 		},
 		{
@@ -194,42 +128,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "6A78253D0891C37F7707F8074AD2699217D43216",
-			"Assets": [
-				"/Game/ART/Joanna/Skatepark/texture_3_Mat1"
-			]
-		},
-		{
 			"ShaderMapHash": "7AFB353D6023D9405B608F99E8958D7AD94CE8C4",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Default"
 			]
 		},
 		{
-			"ShaderMapHash": "7D46CF3D9FFA3B205EFF8237302ECB32DD6FD2F9",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbe/MI_vlkhcbxia"
-			]
-		},
-		{
-			"ShaderMapHash": "9E0E7C3F53C2F3A8206F123FC90EAF4481EF7EA4",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Skatepark"
-			]
-		},
-		{
 			"ShaderMapHash": "F68BDB43EB18AE588F4E6C60EF0D1F178A62884E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
-			]
-		},
-		{
-			"ShaderMapHash": "5EF26647C8964E1B2D6E960886E79D20525D7732",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/fenetre/M_Window1",
-				"/Game/ART/Joanna/Niveau_Couloir/fenetre/M_Window2",
-				"/Game/ART/Joanna/Niveau_Couloir/porte/M_Door1",
-				"/Game/ART/Joanna/Niveau_Couloir/porte/M_Door2"
 			]
 		},
 		{
@@ -318,24 +225,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5FA33257FD828B61E39F041CE06D6F4C9C43E68F",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Concrete_007"
-			]
-		},
-		{
-			"ShaderMapHash": "A0C09459C88DA51AF6D5F8CF9914EDF74179E64C",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Billboard"
-			]
-		},
-		{
-			"ShaderMapHash": "C934C059952E30C18FCAC950F2F55C7F2E7C1BDE",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbe_grasse/MI_theqfivr"
-			]
-		},
-		{
 			"ShaderMapHash": "41DDFC5AD4E20D99E468C74E1341021B9A13A6ED",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
@@ -354,12 +243,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A6BC35634325FCAF1A095EFDCFE17E4519EF6FDB",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/murs/M_Mur"
-			]
-		},
-		{
 			"ShaderMapHash": "51BCB963F3CDBDC0E12562DFC43FA217872EABDD",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
@@ -372,37 +255,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "4B497467142D0EEF10A43DE1E7D9CF4747C7218C",
-			"Assets": [
-				"/Game/ART/Joanna/Material/entreEnceinte"
-			]
-		},
-		{
-			"ShaderMapHash": "8F55A06707A9A0494E73C327851BA0A5AD351A81",
-			"Assets": [
-				"/Game/ART/Joanna/Nature/Rock01"
-			]
-		},
-		{
-			"ShaderMapHash": "BD00EE677CF09B9CC39FA69E62DBEE30C7253DAC",
-			"Assets": [
-				"/Game/ART/Joanna/Building/facade-1209311_Mat",
-				"/Game/ART/Joanna/Building/facade-rough_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "E7B5F96746B0399F7443744821A2103216F61060",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Material_001"
-			]
-		},
-		{
-			"ShaderMapHash": "A575846DE30913D10DE3EC81CFBC5B68759BF44F",
-			"Assets": [
-				"/Game/ART/Joanna/Skatepark/metal_001"
-			]
-		},
-		{
 			"ShaderMapHash": "438EC7702432B7C65389A674FAA4D54526331B3A",
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
@@ -410,53 +262,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8001F47275EB57793998DC41CA1072AAACD216E4",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbe/MI_vlkhcbxia"
-			]
-		},
-		{
-			"ShaderMapHash": "004B4473F89BCFEFA43E8FA715E30796FCE3AA7A",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/ivy_leaves/M_IvyLeaves"
-			]
-		},
-		{
 			"ShaderMapHash": "89BAEA73DBFD4AF02B0BF3F61404D298A35B4B19",
 			"Assets": [
-				"/Engine/EngineMaterials/Widget3DPassThrough"
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
 		{
 			"ShaderMapHash": "7A9B1E747642FCB8DCC5D93EED7DC1095EAA983A",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "7AAFA675498F256A5A819E5CF42129607DEA812C",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/M_cone",
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/Poubelle",
-				"/Game/ART/Joanna/Niveau_Couloir/M_barrière_concrete"
-			]
-		},
-		{
-			"ShaderMapHash": "26619077CF57493BC0D5B21A5CBFD9AF0771D47B",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/mur_osef"
-			]
-		},
-		{
-			"ShaderMapHash": "25FCF877BE2984FCB3C98CFF82AB3838C44877E5",
-			"Assets": [
-				"/Game/ART/Joanna/Ajout_dernière_minute/ça_C_Good/Stand"
-			]
-		},
-		{
-			"ShaderMapHash": "FA7C967834D28F2BB39AAEAE47143DFCD0DE6052",
-			"Assets": [
-				"/Game/ART/Joanna/Building/Building"
 			]
 		},
 		{
@@ -493,12 +308,6 @@
 			"ShaderMapHash": "26B0938FD8A7D3A46A5F4BA6CC19F20C4F98D2E3",
 			"Assets": [
 				"/Paper2D/DefaultLitSpriteMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "0FB8E8900698E0E1D39B9A30221EB32E7EF445FC",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/sol/M_plafond"
 			]
 		},
 		{
@@ -544,12 +353,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14D6B49ABD471A3259A30C8E1F2A34C9788D4230",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbeSèche/MI_vdknafgha"
-			]
-		},
-		{
 			"ShaderMapHash": "149BEE9A0F16AC3CE7CE830DBB6CE47C3A498919",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Sheen"
@@ -558,11 +361,70 @@
 		{
 			"ShaderMapHash": "C81E4B9BD00306735B372564E4A57650116E184D",
 			"Assets": [
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/062VPHY2A664O1BFN6K10ZTFC",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/0DKNXQ64G0741WMB1HG25AYNU",
 				"/Engine/Maps/Templates/OpenWorld/_Generated_/0FBSY5KVOXKO2F95PG60Y9LQ1",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/0FO269CJJPT1KWUNPV8I3D7HF",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/0ULS9JG1EER47G9XYQAP7GS53",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/0YRZP86H9BCB7FYAVAQIEYRCY",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/11FM09D4X0P92LN4J15MPZWTO",
 				"/Engine/Maps/Templates/OpenWorld/_Generated_/14TWR481M9BR03G9I7NG4KINT",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/18QM8YK0GSQ018IPR6OT7RJC5",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/1BX0BGYZ17G0U09675N1KG9F8",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/1KA8PENA07S1TLPYUQT1ADWJW",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/1XRO772MR72DR4NTZXXPNQLCL",
 				"/Engine/Maps/Templates/OpenWorld/_Generated_/23ZR7LQ5LZ3FS0PMCR1ZKJBX5",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/264SVRNDEWW4MGWUIDC4BTIXK",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/2EXPORCQWFXA0VGPUZFFEH42V",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/2KZONTR6XMIOC1XIKLEAIDFGK",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/2NGRSF81RI2C7PGU0F4UWZ4QP",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/3VF47RGRS9W4BJX2S86EFTVJD",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/47IZ3J3V5ZG6TMR3GM3VMJ2Y2",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/4VMFP9X0E1WZQ30W8JQB6M1YL",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/4ZN1OJP2B964Q0681LMOH9CAD",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/52ROPPDGP6LV1T2TJ05NFM0XY",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/5589EJ3YNAFY0K517GT76Z3EM",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/560Q2YQDUSHN6VRUZ0LHOWU97",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/5GC7QNJQ9XVF1C45OZMTCJC0G",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/5JAFRUW7M8C40BCVQK2GXFJNJ",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/5JYRKCDWVZW8AS85ROYF9H9AR",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/5Y4REHE1GDAJJ90DPEI1VVKT8",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/5YLXSWDD6B74X559RZ9RN5K99",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/6STUIE5HIVZGCEZANDWW93U27",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/6U1Q6DZVXYENNRFSLB9Q4MBCV",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/7E8MPC3Z1ENYFQOFU0TO8H1O3",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/7IZRC9ECG7XKK61Q37LY67KCB",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/7QAN0CUPH7L6XIAXVC415BO3H",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/7W0EWM8OGZ345XSTZNS5AQMBI",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/8FBSR6G98CEOTI59LE9GFCH6X",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/8HTVHG4ZV10ESALAMDOXITR27",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/8MWLTTOWQ9MQISB0FTDRBG27N",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/90YKWZXGBC5Q8M7RFK49P371F",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/91C65FSOVE5PX3RH3ZE5R7AWP",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/9CG6NSY5SPFUYJH4AIWXX1QD9",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/9DWYO4CR8ZRKRYVNPHDVJTYH4",
 				"/Engine/Maps/Templates/OpenWorld/_Generated_/9NTQYTBKVO06SRUD63GKC165Y",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/ETTXYQ53RP132MUZA505BMZBV"
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/9SC5WUA5JIS0UM415PBWV1RPM",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/A162FR22SPAI1JX798GP4T1ZY",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/A7UZ852D2ZZOKJMRIHDRWHDZ8",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/B11KFXDGHHWI998I49YF8OSCV",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/BT99C0BD1H8P4P6YI5OOM83O3",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/BXVJS9DZO1LTJ87VJXMLNXJ85",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/CGX8O6ITCT8PB63Y6Q4CTFLKF",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/CI21SMK3TPP9F7V768J0FQPFN",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/CMII0KWF4DK79CQ7FNE3VYZ0Y",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/CTLYDDTL70JB2XY8IR8UZ41PX",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/D1DN3JVAKT1IU41G7WQCLQRAM",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/D528WYH177JBF1MVERKEF59XI",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/DCTE9CM81UE50WYEPVQYX7F1G",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/DQ6VH2NBB7RXPEUMYIX9HP52D",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/EDEENOWTZDO3K761WYC6F62MH",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/EJQVVAI5ME30NB6FGJ49AXY9F",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/ERDR3X7GTNEIJLJS14Q6QZGUD",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/ETTXYQ53RP132MUZA505BMZBV",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/EUV70YALLEKX8DTKFHA9JZCNR",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/EVZZ44OOC35CBVX4NIVJ6ZF92",
+				"/Engine/Maps/Templates/OpenWorld/_Generated_/EYFK9JZPSX06MOH3LNAI7SW92"
 			]
 		},
 		{
@@ -575,24 +437,6 @@
 			"ShaderMapHash": "CAA3349CE3D3876343CD810079A84695FA793B5E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
-			]
-		},
-		{
-			"ShaderMapHash": "8C3D2B9D84637B6A3FAB003BCBF08D14C9322EA7",
-			"Assets": [
-				"/Game/ART/Joanna/Decals/Concrete_degoulinure_3_Mat",
-				"/Game/ART/Joanna/Decals/Concrete_degoulinure_4_Mat",
-				"/Game/ART/Joanna/Decals/Concrete_degoulinure_Mat",
-				"/Game/ART/Joanna/Decals/M_CustomDecals",
-				"/Game/ART/Joanna/Decals/M_CustomDecals2",
-				"/Game/ART/Joanna/Skatepark/tags/Bleurfoncé1",
-				"/Game/ART/Joanna/Skatepark/tags/rose1",
-				"/Game/ART/Joanna/Skatepark/tags/rose2",
-				"/Game/ART/Joanna/Skatepark/tags/tag_bleu_clair_2bis_Mat",
-				"/Game/ART/Joanna/Skatepark/tags/tag_orange_1bis_Mat",
-				"/Game/ART/Joanna/Skatepark/tags/tag_rose_3_Mat",
-				"/Game/ART/Joanna/Skatepark/tags/vert1",
-				"/Game/ART/Joanna/Skatepark/tags/vert2"
 			]
 		},
 		{
@@ -626,27 +470,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "638AAAA610AFC039B3C3FAC9B349A377AABDD5CD",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbe_grasse/MI_theqfivr"
-			]
-		},
-		{
 			"ShaderMapHash": "D1D1D3A65B861AF9DFFCAD141F1F395FDEB954E0",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "4F1686A778A270253EDF6F1039BBFB1F07077665",
-			"Assets": [
-				"/Game/ART/Joanna/Ajout_dernière_minute/ça_C_Good/Material_002"
-			]
-		},
-		{
-			"ShaderMapHash": "8DC50FA8AB60AB1A688BEF5905AAAFBB6D55FF09",
-			"Assets": [
-				"/Game/LEVEL/Copie_Explo_Skatepark_Finale"
 			]
 		},
 		{
@@ -656,46 +482,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E7FD4DA8FC08889C46F442F75528727E46D73D89",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Foliage"
-			]
-		},
-		{
 			"ShaderMapHash": "54D428AA560698494A3F887366418974CE9AD308",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
 			]
 		},
 		{
-			"ShaderMapHash": "C68E3EAB2EE20FFE3A15DC244FA735356A26440C",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/murs/Mur_G"
-			]
-		},
-		{
 			"ShaderMapHash": "DCD95DABF09BBB29B874627ADB0158E2C1E54CD2",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "B68809AE0E97E71838C12F19C5A0D77EF9E79E12",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/planche_en_bois",
-				"/Game/ART/Joanna/Niveau_Couloir/murs/texture/curtain"
-			]
-		},
-		{
-			"ShaderMapHash": "9D2C1AB05C12E4DA47712DFC50B2A9C3873183AA",
-			"Assets": [
-				"/Game/ART/Joanna/Decals/concrete_ground"
-			]
-		},
-		{
-			"ShaderMapHash": "DD667BB2D34323F34EC4B659D5AAA9D1A1712587",
-			"Assets": [
-				"/Game/ART/Joanna/Skatepark/StylizedVolClouds/Materials/M_StylizedVolumetricClouds"
 			]
 		},
 		{
@@ -711,12 +506,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "ADA9C0B614C00378F8F25417A0519FB771CC11AF",
-			"Assets": [
-				"/Fab/Materials/Standard/M_MS_Billboard"
-			]
-		},
-		{
 			"ShaderMapHash": "6C687CB7F0A6B1C006AFCEBB6D10215236B3C1A6",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -729,27 +518,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DC0E40BADD59B28ABC70806C6ABE9E9D213923D5",
-			"Assets": [
-				"/Game/ART/Joanna/Building/Windows"
-			]
-		},
-		{
 			"ShaderMapHash": "19AF08BB735D63C12774701BC0C2C447B5DA4F7B",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "298D3ABD2AAFF82D8C65FD7060481B86A59CD4A4",
-			"Assets": [
-				"/Game/ART/Joanna/Material/BatimentAvecSSSS"
-			]
-		},
-		{
-			"ShaderMapHash": "C6ABAEBD839CAC299173B0841AF47EB673F452D6",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/murs/Mur_brick"
 			]
 		},
 		{
@@ -777,27 +548,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0F0506C6B258393E4E965123B21D81F7969B43A9",
-			"Assets": [
-				"/Game/ART/Joanna/Decals/skate"
-			]
-		},
-		{
-			"ShaderMapHash": "80B57FC6020F6F9FF378A839721C9DF9C00FB0E6",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/murs/Mur_Droite"
-			]
-		},
-		{
 			"ShaderMapHash": "D71594C921688AF8AB174E9EDAB0E72C911DEE7D",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "0FDFA3CF8EE43C582A8D64EE468FE74514074C2C",
-			"Assets": [
-				"/Game/ART/Joanna/Skatepark/texture2bis_Mat"
 			]
 		},
 		{
@@ -849,18 +602,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9CAAE9E08E083C406771603219EEB0F34924D806",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Skatepark2"
-			]
-		},
-		{
-			"ShaderMapHash": "CFBE87E1A87BDC5C96940ABA0DA3983661B00AA4",
-			"Assets": [
-				"/Game/ART/Joanna/Nature/Rock02"
-			]
-		},
-		{
 			"ShaderMapHash": "EF43D4E1DAEA9463701C8E64FA8AF5E210CFDF1E",
 			"Assets": [
 				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
@@ -909,22 +650,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "46BE8CF3ACEB4F5355743308E6941FC9AB61F01C",
-			"Assets": [
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/M_grillage",
-				"/Game/ART/Joanna/Niveau_Couloir/Assets_décors/M_potDePainture"
-			]
-		},
-		{
 			"ShaderMapHash": "A81E03F6B3B7989786362B67AEB359BBCD995FBD",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialToggleButton"
-			]
-		},
-		{
-			"ShaderMapHash": "E4FE59F66C3E6579DC2FAB0B72AC2F0B2AB4A55A",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Mur_Batiment"
 			]
 		},
 		{
@@ -937,19 +665,6 @@
 			"ShaderMapHash": "C9EC23F80E8133EC2376A04489462C7F2F7CF2E2",
 			"Assets": [
 				"/Engine/EngineMaterials/GizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E1FAF1F8BBE908429C828FFF4D05EA4DCECB80A0",
-			"Assets": [
-				"/Game/ART/Joanna/Material/Boom_Extérieur"
-			]
-		},
-		{
-			"ShaderMapHash": "AE1FE8FA6D7B61285A8C947A38472E32153EFE2F",
-			"Assets": [
-				"/Game/ART/Joanna/Fab/herbe_grasse/MI_theqfivr_Billboard",
-				"/Game/ART/Joanna/Fab/herbeSèche/MI_vdknafgha_Billboard"
 			]
 		},
 		{
